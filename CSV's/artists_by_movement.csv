@@ -1,0 +1,1211 @@
+,movement,name,birth,death,country,art_type
+0,Gothic Art,Benedetto Antelami,1150,1230,Italian,Sculptor
+1,Gothic Art,Mastro Guglielmo,1158,1165,Italian,Sculptor
+0,The Early Renaissance,Giotto di Bondone,1267,1337,Italian,Painter
+1,The Early Renaissance,Bernardo Daddi,1280,1348,Italian,Painter
+2,The Early Renaissance,Taddeo Gaddi,1300,1366,Italian,Painter
+3,The Early Renaissance,Maso di Banco,1320,1350,Italian,Painter
+4,The Early Renaissance,Agnolo Gaddi,1345,1396,Italian,Painter
+5,The Early Renaissance,Spinello Aretino,1350,1410,Italian,Painter
+6,The Early Renaissance,Francesco di Valdambrino,1363,1435,Italian,Sculptor
+7,The Early Renaissance,Jacobello Del Fiore,1370,1439,Italian,Painter
+8,The Early Renaissance,Michelino da Besozzo,1370,1450,Italian,Painter
+9,The Early Renaissance,Jacopo della Quercia,1371,1438,Italian,Sculptor
+0,The High Renaissance,Giovanni Bellini,1430,1516,Italian,Painter
+1,The High Renaissance,Luca Signorelli,1441,1523,Italian,Painter
+2,The High Renaissance,Donato Bramante,1444,1514,Italian,Architect/Painter
+3,The High Renaissance,Vittore Carpaccio,1450,1525,Italian,Painter
+4,The High Renaissance,Francesco Francia,1450,1517,Italian,Painter
+5,The High Renaissance,Bernardino Zenale,1450,1526,Italian,Painter
+6,The High Renaissance,Leonardo da Vinci,1452,1519,Italian,Painter/Inventor
+7,The High Renaissance,Lorenzo di Credi,1458,1537,Italian,Painter
+8,The High Renaissance,Alessandro Araldi,1460,1530,Italian,Painter
+9,The High Renaissance,Bergognone,1460,1523,Italian,Painter
+10,The High Renaissance,Bramantino,1460,1530,Italian,Painter
+11,The High Renaissance,Lorenzo Costa,1460,1535,Italian,Painter
+12,The High Renaissance,Benedetto Diana,1460,1525,Italian,Painter
+13,The High Renaissance,Tullio Lombardo,1460,1532,Italian,Sculptor
+14,The High Renaissance,Sebastiano Mainardi,1460,1513,Italian,Painter
+15,The High Renaissance,Andrea Solario,1460,1524,Italian,Painter
+16,The High Renaissance,Piero di Cosimo,1462,1521,Italian,Painter
+17,The High Renaissance,Antonello de Saliba,1466,1535,Italian,Painter
+18,The High Renaissance,Giovanni Antonio Boltraffio,1466,1516,Italian,Painter
+19,The High Renaissance,Andrea Sansovino,1467,1529,Italian,Sculptor
+20,The High Renaissance,Cristoforo Solari,1468,1524,Italian,Sculptor
+21,The High Renaissance,Francesco Granacci,1469,1543,Italian,Painter
+22,The High Renaissance,Giovanni della Robbia,1469,1529,Italian,Sculptor
+23,The High Renaissance,Timoteo Viti,1469,1525,Italian,Painter
+24,The High Renaissance,Bartolomeo Veneto,1470,1531,Italian,Painter
+25,The High Renaissance,Marco Basaiti,1470,1530,Italian,Painter
+26,The High Renaissance,Girolamo di Benvenuto,1470,1524,Italian,Painter
+27,The High Renaissance,Michele da Verona,1470,1540,Italian,Painter
+28,The High Renaissance,Gian Cristoforo Romano,1470,1512,Italian,Sculptor
+29,The High Renaissance,Gaudenzio Ferrari,1471,1546,Italian,Painter
+30,The High Renaissance,Fra Bartolommeo,1472,1517,Italian,Painter
+31,The High Renaissance,Pietro Torrigiano,1472,1528,Italian,Sculptor
+32,The High Renaissance,Giovanni Francesco Rustici,1474,1554,Italian,Sculptor
+33,The High Renaissance,Giuliano Bugiardini,1475,1554,Italian,Painter
+34,The High Renaissance,Michelangelo Buonarroti,1475,1564,Italian,Painter/Sculptor
+35,The High Renaissance,Marcantonio Raimondi,1475,1534,Italian,Engraver
+36,The High Renaissance,Cesare da Sesto,1477,1523,Italian,Painter
+37,The High Renaissance,Giorgione,1477,1510,Italian,Painter
+38,The High Renaissance,Il Sodoma,1477,1549,Italian,Painter
+39,The High Renaissance,Giovanni Francesco Caroto,1480,1555,Italian,Painter
+40,The High Renaissance,Lorenzo Lotto,1480,1556,Italian,Painter
+41,The High Renaissance,Bernardino Luini,1480,1532,Italian,Painter
+42,The High Renaissance,Ludovico Mazzolino,1480,1528,Italian,Painter
+43,The High Renaissance,Palma Vecchio,1480,1528,Italian,Painter
+44,The High Renaissance,Vincenzo di Catena,1480,1531,Italian,Painter
+45,The High Renaissance,Garofalo,1481,1559,Italian,Painter
+46,The High Renaissance,Baldassare Peruzzi,1481,1536,Italian,Painter/Architect
+47,The High Renaissance,Bambaia,1483,1548,Italian,Sculptor
+48,The High Renaissance,Ridolfo Ghirlandaio,1483,1561,Italian,Painter
+49,The High Renaissance,Raphael,1483,1520,Italian,Painter
+50,The High Renaissance,Franciabigio,1484,1525,Italian,Painter
+51,The High Renaissance,Girolamo Romanino,1484,1562,Italian,Painter
+52,The High Renaissance,Francesco da Sangallo,1484,1576,Italian,Sculptor
+53,The High Renaissance,Titian,1485,1576,Italian,Painter
+54,The High Renaissance,Andrea del Sarto,1486,1530,Italian,Painter
+55,The High Renaissance,Paolo Moraldo,1486,1522,Italian,Painter
+56,The High Renaissance,Andrea del Brescianino,1487,1524,Italian,Painter
+57,The High Renaissance,Giovanni Martini da Udine,1487,1564,Italian,Painter
+58,The High Renaissance,Bonifacio Veronese,1487,1553,Italian,Painter
+59,The High Renaissance,Giovanni da Nola,1488,1558,Italian,Sculptor
+60,The High Renaissance,Giovan Francesco Penni,1488,1528,Italian,Painter
+61,The High Renaissance,Bernardino Licinio,1489,1565,Italian,Painter
+62,The High Renaissance,Agostino Veneziano,1490,1540,Italian,Engraver
+63,The High Renaissance,Giovanni Cariani,1490,1547,Italian,Painter
+64,The High Renaissance,Battista Dossi,1490,1548,Italian,Painter
+65,The High Renaissance,Dosso Dossi,1490,1542,Italian,Painter
+66,The High Renaissance,Defendente Ferrari,1490,1535,Italian,Painter
+67,The High Renaissance,Altobello Melone,1490,1543,Italian,Painter
+68,The High Renaissance,Ortolano Ferrarese,1490,1525,Italian,Painter
+69,The High Renaissance,Properzia de Rossi,1490,1530,Italian,Sculptor
+70,The High Renaissance,Michelangelo Anselmi,1492,1556,Italian,Painter
+71,The High Renaissance,Francesco Beccaruzzi,1492,1563,Italian,Painter
+72,The High Renaissance,Domenico Puligo,1492,1527,Italian,Painter
+73,The High Renaissance,Francesco Bacchiacca,1494,1557,Italian,Painter
+74,The High Renaissance,Domenico Capriolo,1494,1528,Italian,Painter
+75,The High Renaissance,Jean Cousin the Elder,1495,1560,French,Painter
+76,The High Renaissance,Moretto da Brescia,1498,1554,Italian,Painter
+77,The High Renaissance,Paris Bordone,1500,1571,Italian,Painter
+78,The High Renaissance,Domenico Campagnola,1500,1564,Italian,Painter
+79,The High Renaissance,Giampietrino,1500,1540,Italian,Painter
+80,The High Renaissance,Callisto Piazza,1500,1562,Italian,Painter
+81,The High Renaissance,Girolamo da Carpi,1501,1556,Italian,Painter
+82,The High Renaissance,Giulio Campi,1502,1572,Italian,Painter
+83,The High Renaissance,Pierfrancesco Foschi,1502,1567,Italian,Painter
+84,The High Renaissance,Rocco Marconi,1504,1529,Italian,Painter
+85,The High Renaissance,Gian Jacopo Caraglio,1505,1565,Italian,Engraver
+86,The High Renaissance,Giovanni Angelo Montorsoli,1507,1563,Italian,Sculptor
+87,The High Renaissance,Jacopo Bassano,1510,1592,Italian,Painter
+88,The High Renaissance,Karl von Egeri,1510,1562,Swiss,Glass Painter
+89,The High Renaissance,Brusasorci,1516,1567,Italian,Painter
+90,The High Renaissance,Scipione Pulzone,1550,1598,Italian,Painter
+91,The High Renaissance,Barbara Longhi,1552,1638,Italian,Painter
+0,The Northern Renaissance,Master Bertram,1340,1414,German,Painter
+1,The Northern Renaissance,Hubert van Eyck,1370,1426,Netherlandish,Painter
+2,The Northern Renaissance,Robert Campin,1375,1444,Netherlandish,Painter
+0,Mannerism,Amico Aspertini,1474,1552,Italian,Painter
+0,Baroque Art,Federico Barocci,1535,1612,Italian,Painter
+1,Baroque Art,Blas de Ledesma,1546,1614,Spanish,Painter
+2,Baroque Art,Girolamo Campagna,1549,1625,Italian,Sculptor
+3,Baroque Art,Paul Bril,1554,1626,Flemish,Painter
+4,Baroque Art,Jacopo Chimenti,1554,1640,Italian,Painter
+5,Baroque Art,Giovanni Battista Paggi,1554,1627,Italian,Painter
+6,Baroque Art,Lodovico Carracci,1555,1619,Italian,Painter
+7,Baroque Art,Antonio Tempesta,1555,1630,Italian,Painter
+8,Baroque Art,Bartolomeo Cesi,1556,1629,Italian,Painter
+9,Baroque Art,Alessandro Maganza,1556,1640,Italian,Painter
+10,Baroque Art,Cristoforo Stati,1556,1619,Italian,Sculptor
+11,Baroque Art,Agostino Carracci,1557,1602,Italian,Painter
+12,Baroque Art,Bernardo Castello,1557,1629,Italian,Painter
+13,Baroque Art,Hendrick Goltzius,1558,1617,Dutch,Painter/Engraver
+14,Baroque Art,Lodovico Cigoli,1559,1613,Italian,Painter/Architect
+15,Baroque Art,Enea Talpino,1559,1626,Italian,Painter
+16,Baroque Art,Bartolommeo Carducci,1560,1610,Italian,Painter
+17,Baroque Art,Annibale Carracci,1560,1609,Italian,Painter
+18,Baroque Art,Adriaen Collaert,1560,1618,Flemish,Engraver
+19,Baroque Art,Belisario Corenzio,1560,1640,Italian,Painter
+20,Baroque Art,Kerstiaen de Keuninck,1560,1633,Flemish,Painter
+21,Baroque Art,Domenico Robusti,1560,1635,Italian,Painter
+22,Baroque Art,Marcus Gheeraerts the Younger,1561,1636,Flemish,Painter
+23,Baroque Art,Tobias Verhaecht,1561,1631,Flemish,Painter
+24,Baroque Art,Pietro Bernini,1562,1629,Italian,Sculptor
+25,Baroque Art,Orazio Gentileschi,1563,1639,Italian,Painter
+26,Baroque Art,Francesco Vanni,1563,1610,Italian,Painter
+27,Baroque Art,Hendrick Cornelisz. Vroom,1563,1640,Dutch,Painter
+28,Baroque Art,Joos de Momper II,1564,1635,Flemish,Painter
+29,Baroque Art,Nicolas Cordier,1565,1612,French,Sculptor
+30,Baroque Art,Jacques de Gheyn II,1565,1629,Dutch,Painter
+31,Baroque Art,Hendrick de Keyser I,1565,1621,Dutch,Painter
+32,Baroque Art,Rowland Lockey,1565,1616,English,Painter
+33,Baroque Art,Camillo Mariani,1565,1611,Italian,Sculptor
+34,Baroque Art,Francisco Ribalta,1565,1628,Spanish,Painter
+35,Baroque Art,Jan Saenredam,1565,1607,Dutch,Engraver
+36,Baroque Art,Giovanni Baglione,1566,1643,Italian,Painter
+37,Baroque Art,Georg Flegel,1566,1638,German,Painter
+38,Baroque Art,Michiel Jansz. Miereveld,1567,1641,Dutch,Painter
+39,Baroque Art,Ottavio Miseroni,1567,1624,Italian,Jeweller
+40,Baroque Art,Ventura Salimbeni,1567,1613,Italian,Painter
+41,Baroque Art,Jan Bruegel the Elder,1568,1625,Flemish,Painter
+42,Baroque Art,Juan Martinez Montanez,1568,1649,Spanish,Sculptor
+43,Baroque Art,Frans Pourbus the Younger,1569,1622,Flemish,Painter
+44,Baroque Art,Denys van Alsloot,1570,1628,Flemish,Painter
+45,Baroque Art,Hendrik de Clerck,1570,1630,Flemish,Painter
+46,Baroque Art,Francesco Curradi,1570,1661,Italian,Painter
+47,Baroque Art,Abel Grimmer,1570,1619,Flemish,Painter
+48,Baroque Art,Jan van Ravesteyn,1570,1657,Dutch,Painter
+49,Baroque Art,Aegidius Sadeler II,1570,1629,Flemish,Painter
+50,Baroque Art,Caravaggio,1571,1610,Italian,Painter
+51,Baroque Art,Antiveduto Gramatica,1571,1626,Italian,Painter
+52,Baroque Art,Rutilio Manetti,1571,1639,Italian,Painter
+53,Baroque Art,Jacob Matham,1571,1631,Flemish,Engraver
+54,Baroque Art,Paulus Moreelse,1571,1638,Dutch,Painter
+55,Baroque Art,Jan H. Muller,1571,1628,Dutch,Painter
+56,Baroque Art,Ambrosius Bosschaert the Elder,1573,1621,Dutch,Painter
+57,Baroque Art,Hendrik Hondius the Elder,1573,1649,Dutch,Printmaker
+58,Baroque Art,Abraham Janssens,1573,1632,Flemish,Painter
+59,Baroque Art,Inigo Jones,1573,1652,English,Architect
+60,Baroque Art,Morazzone,1573,1625,Italian,Painter
+61,Baroque Art,Bastiaen Vrancx,1573,1647,Flemish,Painter
+62,Baroque Art,Giulio Cesare Procaccini,1574,1625,Italian,Painter/Sculptor
+63,Baroque Art,Hendrick van Balen,1575,1632,Dutch,Painter
+64,Baroque Art,Eugenio Cajes,1575,1634,Spanish,Painter
+65,Baroque Art,Giovanni Battista Crespi,1575,1633,Italian,Painter
+66,Baroque Art,Floris van Dijck,1575,1651,Dutch,Painter
+67,Baroque Art,Stefano Maderno,1575,1636,Italian,Sculptor
+0,The Rococo Style,Gregorio de Ferrari,1644,1726,Italian,Painter
+1,The Rococo Style,Nicolas de Largilliere,1656,1746,French,Painter
+2,The Rococo Style,Giacomo Serpotta,1656,1732,Italian,Sculptor
+3,The Rococo Style,Francesco Trevisani,1656,1746,Italian,Painter
+4,The Rococo Style,Sebastiano Ricci,1659,1734,Italian,Painter
+5,The Rococo Style,Michele Rocca,1666,1751,Italian,Painter
+6,The Rococo Style,Nicolas Bertin,1667,1736,French,Painter
+7,The Rococo Style,Claude-Augustin Cayot,1667,1722,French,Sculptor
+8,The Rococo Style,Alessandro Magnasco,1667,1749,Italian,Painter
+9,The Rococo Style,Antonio Corradini,1668,1752,Italian,Sculptor
+10,The Rococo Style,Rosalba Carriera,1675,1757,Italian,Painter
+11,The Rococo Style,Giovanni Antonio Pellegrini,1675,1741,Italian,Painter
+12,The Rococo Style,Jean Raoux,1677,1734,French,Painter
+13,The Rococo Style,Marcellus Laroon the Younger,1679,1772,English,Painter
+14,The Rococo Style,Michel-Ange Houasse,1680,1730,French,Painter
+15,The Rococo Style,Giacomo Amiconi,1682,1752,Italian,Painter
+16,The Rococo Style,Giovanni Batista Piazetta,1683,1754,Italian,Painter
+17,The Rococo Style,Jean-Antoine Watteau,1684,1721,French,Painter
+18,The Rococo Style,Jean-Marc Nattier,1685,1766,French,Painter
+19,The Rococo Style,Giovanni Battista Pittoni,1687,1767,Italian,Painter
+20,The Rococo Style,Paul de Lamerie,1688,1751,Dutch/English,Silversmith
+21,The Rococo Style,Francois Le Moyne,1688,1737,French,Painter
+22,The Rococo Style,Francesco Maria Schiaffino,1688,1763,Italian,Sculptor
+23,The Rococo Style,Nicolas Lancret,1690,1743,French,Painter
+24,The Rococo Style,Georg Raphael Donner,1693,1749,Austrian,Sculptor
+25,The Rococo Style,Jacques Dubois,1693,1763,French,Furniture Artist
+26,The Rococo Style,Charles-Antoine Coypel,1694,1752,French,Painter
+27,The Rococo Style,Corrado Giaquinto,1694,1765,Italian,Painter
+28,The Rococo Style,Jean-Baptiste Joseph Pater,1695,1736,French,Painter
+29,The Rococo Style,Jacob de Wit,1695,1754,Dutch,Painter
+30,The Rococo Style,Giovanni Marchiori,1696,1778,Italian,Sculptor
+31,The Rococo Style,Giovanni Battista Tiepolo,1696,1770,Italian,Painter
+32,The Rococo Style,Canaletto,1697,1768,Italian,Painter
+33,The Rococo Style,Nicola Salvi,1697,1751,Italian,Sculptor
+34,The Rococo Style,Jean-Baptiste-Simeon Chardin,1699,1779,French,Painter
+35,The Rococo Style,Gian Antonio Guardi,1699,1761,Italian,Painter
+36,The Rococo Style,Giovan Maria Morlaiter,1699,1781,Italian,Sculptor
+37,The Rococo Style,Giuseppe Nogari,1699,1766,Italian,Painter
+38,The Rococo Style,Joseph Blackburn,1700,1780,English/American,Painter
+39,The Rococo Style,Charles Joseph Natoire,1700,1777,French,Painter
+40,The Rococo Style,Luigi Vanvitelli,1700,1773,Italian,Architect
+41,The Rococo Style,Thomas Hudson,1701,1779,English,Painter
+42,The Rococo Style,Pietro Longhi,1702,1785,Italian,Painter
+43,The Rococo Style,Louis-Francois Roubiliac,1702,1762,French/English,Sculptor
+44,The Rococo Style,Francesco Zuccarelli,1702,1788,Italian,Painter
+45,The Rococo Style,Francois Boucher,1703,1770,French,Painter
+46,The Rococo Style,Maurice Quentin de La Tour,1704,1788,French,Painter
+47,The Rococo Style,Andrea Casali,1705,1784,Italian,Painter
+48,The Rococo Style,Francoise Duparc,1705,1778,Spanish/French,Painter
+49,The Rococo Style,Pompeo Batoni,1708,1787,Italian,Painter
+50,The Rococo Style,Francesco Zugno,1708,1787,Italian,Painter
+51,The Rococo Style,Francesco Fontebasso,1709,1769,Italian,Painter
+52,The Rococo Style,Christophe-Gabriel Allegrain,1710,1795,French,Sculptor
+53,The Rococo Style,John Wollaston,1710,1775,English/American,Painter
+54,The Rococo Style,Francesco Guardi,1712,1793,Italian,Painter
+55,The Rococo Style,Domenico Maggiotto,1713,1794,Italian,Painter
+56,The Rococo Style,Allan Ramsay,1713,1784,Scottish,Painter
+57,The Rococo Style,Jean-Baptiste Pigalle,1714,1785,French,Sculptor
+58,The Rococo Style,Charles-Francois Hutin,1715,1776,French,Sculptor
+59,The Rococo Style,Jean-Baptiste Perronneau,1715,1783,French,Painter
+60,The Rococo Style,Aleksei Antropov,1716,1795,Russian,Painter
+61,The Rococo Style,Etienne-Maurice Falconet,1716,1791,French,Sculptor
+62,The Rococo Style,Bernardo Bellotto,1721,1780,Italian,Painter
+63,The Rococo Style,Charles Flipart,1721,1797,French,Painter
+64,The Rococo Style,Anna Dorothea Therbusch,1721,1782,German,Painter
+65,The Rococo Style,Sir Joshua Reynolds,1723,1792,English,Painter
+66,The Rococo Style,Jean-Baptiste Greuze,1725,1805,French,Painter
+67,The Rococo Style,Peder Als,1726,1776,Danish,Painter
+68,The Rococo Style,Thomas Gainsborough,1727,1788,English,Painter
+69,The Rococo Style,Giovanni Domenico Tiepolo,1727,1804,Italian,Painter
+70,The Rococo Style,Jean Baptiste Pillement,1728,1808,French,Painter
+71,The Rococo Style,Ivan Petrovich Argunov,1729,1802,Russian,Painter
+72,The Rococo Style,Paul Sandby,1730,1809,English,Painter
+73,The Rococo Style,Pierre Julien,1731,1804,French,Sculptor
+74,The Rococo Style,Jean-Honore Fragonard,1732,1806,French,Painter
+75,The Rococo Style,Hubert Robert,1733,1808,French,Painter
+76,The Rococo Style,Dmitrii Grigorevich Levitskii,1735,1822,Russian,Painter
+77,The Rococo Style,Fedor Rokotov,1735,1808,Russian,Painter
+78,The Rococo Style,Louis-Marin Bonnet,1736,1793,French,Engraver
+79,The Rococo Style,Niclas Lafrensen,1737,1807,French,Painter
+80,The Rococo Style,Georg David Matthieu,1737,1778,German,Painter
+81,The Rococo Style,Clodion,1738,1814,French,Sculptor
+82,The Rococo Style,John Smart,1741,1811,English,Miniaturist
+83,The Rococo Style,Richard Cosway,1742,1821,English,Miniaturist
+84,The Rococo Style,Piat-Joseph Sauvage,1744,1818,Flemish,Painter
+85,The Rococo Style,Anne Vallayer-Coster,1744,1818,French,Painter
+86,The Rococo Style,Marie Anne Gerard Fragonard,1745,1823,French,Painter
+87,The Rococo Style,Jean-Baptiste Marie Huet,1745,1811,French,Painter
+88,The Rococo Style,Francisco de Goya,1746,1828,Spanish,Painter/Printmaker
+89,The Rococo Style,Luis Paret y Alcazar,1746,1799,Spanish,Painter
+90,The Rococo Style,Antonio Carnicero,1748,1814,Spanish,Painter
+91,The Rococo Style,Claude Hoin,1750,1817,French,Painter
+92,The Rococo Style,Johann Baptist Lampi the Elder,1751,1830,Austrian,Painter
+93,The Rococo Style,Vladimir Lukich Borovikovskii,1757,1825,Russian,Painter
+94,The Rococo Style,Joseph-Charles Marin,1759,1834,French,Sculptor
+95,The Rococo Style,Giacomo Guardi,1764,1835,Italian,Painter
+0,Neoclassicism,Jean-Francois de Troy,1679,1752,French,Painter
+1,Neoclassicism,Giovanni Paolo Pannini,1691,1765,Italian,Painter
+2,Neoclassicism,Jean Restout,1692,1768,French,Painter
+3,Neoclassicism,Louis-Joseph Le Lorrain,1715,1759,French,Painter
+4,Neoclassicism,Joseph Marie Vien,1716,1809,French,Painter
+5,Neoclassicism,Giovanni Battista Piranesi,1720,1778,Italian,Engraver
+6,Neoclassicism,Gavin Hamilton,1723,1798,Scottish,Painter
+7,Neoclassicism,Martin Knoller,1725,1804,Austrian,Painter
+8,Neoclassicism,Louis Jean Francois Lagrenee,1725,1805,French,Painter
+9,Neoclassicism,Giovanni Battista Cipriani,1727,1785,Italian,Painter
+10,Neoclassicism,Francois-Hubert Drouais,1727,1775,French,Painter
+11,Neoclassicism,Robert Adam,1728,1792,Scottish,Architect/Designer
+12,Neoclassicism,Anton Raphael Mengs,1728,1779,German,Painter
+13,Neoclassicism,Augustin Pajou,1730,1809,French,Sculptor
+14,Neoclassicism,Johann Zoffany,1733,1810,German,Painter
+15,Neoclassicism,Thomas Banks,1735,1805,English,Sculptor
+16,Neoclassicism,Claude-Nicolas Ledoux,1736,1806,French,Architect
+17,Neoclassicism,Joseph Nollekens,1737,1823,English,Sculptor
+18,Neoclassicism,Jean-Jacques-Francois Le Barbier,1738,1828,French,Painter
+19,Neoclassicism,Benjamin West,1738,1820,American,Painter
+20,Neoclassicism,Juan de Villanueva,1739,1811,Spanish,Architect
+21,Neoclassicism,Jean-Jacques Lagrenee,1739,1821,French,Painter
+22,Neoclassicism,Mariano Salvador Maella,1739,1819,Spanish,Painter
+23,Neoclassicism,John Hamilton Mortimer,1740,1779,British,Painter
+24,Neoclassicism,Johan Tobias Sergel,1740,1814,German/Swedish,Sculptor
+25,Neoclassicism,James Barry,1741,1806,Irish,Painter
+26,Neoclassicism,Jean-Antoine Houdon,1741,1828,French,Sculptor
+27,Neoclassicism,Angelica Kauffmann,1741,1807,Swiss,Painter
+28,Neoclassicism,Nicolai Abildgaard,1743,1809,Danish,Painter
+29,Neoclassicism,Louis-Jean Desprez,1743,1804,French,Painter/Architect
+30,Neoclassicism,Thomas Jefferson,1743,1826,American,Architect/Politician
+31,Neoclassicism,Giacomo Quarenghi,1744,1817,Italian,Painter/Architect
+32,Neoclassicism,Adam Weisweiler,1744,1820,German/French,Furniture Artist
+33,Neoclassicism,Francois-Andre Vincent,1746,1816,French,Painter
+34,Neoclassicism,Jacques-Louis David,1748,1825,French,Painter
+35,Neoclassicism,Adelaide Labille-Guiard,1749,1803,French,Painter
+36,Neoclassicism,Giuseppe Ceracchi,1751,1801,Italian,Sculptor
+37,Neoclassicism,Friedrich Heinrich Fuger,1751,1818,German,Painter
+38,Neoclassicism,Sir John Soane,1753,1837,English,Architect
+39,Neoclassicism,Andrea Appiani,1754,1817,Italian,Painter
+40,Neoclassicism,Marie-Victoire Lemoine,1754,1820,French,Painter
+41,Neoclassicism,John Flaxman,1755,1826,English,Sculptor
+42,Neoclassicism,Thomas Stothard,1755,1834,English,Painter
+43,Neoclassicism,Marie Louise Elisabeth Vigee-Lebrun,1755,1842,French,Painter
+44,Neoclassicism,Joseph Chinard,1756,1813,French,Sculptor
+45,Neoclassicism,William Rush,1756,1833,American,Sculptor
+46,Neoclassicism,John Trumbull,1756,1843,American,Painter
+47,Neoclassicism,Antonio Canova,1757,1822,Italian,Sculptor
+48,Neoclassicism,Pierre Cartellier,1757,1831,French,Sculptor
+49,Neoclassicism,Joseph Roques,1757,1847,French,Painter
+50,Neoclassicism,Felice Giani,1758,1823,Italian,Painter
+51,Neoclassicism,John Hoppner,1758,1810,English,Painter
+52,Neoclassicism,Pierre-Paul Prud'hon,1758,1823,French,Painter
+53,Neoclassicism,Guillaume Lethiere,1760,1832,French,Painter
+54,Neoclassicism,Rose Adelaide Ducreux,1761,1802,French,Painter
+55,Neoclassicism,Jean-Baptiste Joseph Wicar,1762,1834,French,Painter
+56,Neoclassicism,Charles Bulfinch,1763,1844,American,Architect
+57,Neoclassicism,Antoine-Denis Chaudet,1763,1810,French,Sculptor
+58,Neoclassicism,Jean-Germain Drouais,1763,1788,French,Painter
+59,Neoclassicism,Johann Gottfried Schadow,1764,1850,German,Sculptor
+60,Neoclassicism,Francois-Xavier Fabre,1766,1837,French,Painter
+61,Neoclassicism,Anne-Louis Girodet de Roussy-Trioson,1767,1824,French,Painter
+62,Neoclassicism,Marie-Guillemine Benoist,1768,1826,French,Painter
+63,Neoclassicism,Francois Gerard,1770,1837,French,Painter
+64,Neoclassicism,Bertel Thorvaldsen,1770,1844,Danish,Sculptor
+65,Neoclassicism,Vincenzo Camuccini,1771,1844,Italian,Painter
+66,Neoclassicism,Antoine-Jean Gros,1771,1835,French,Painter
+67,Neoclassicism,Francois-Frederic Lemot,1772,1827,French,Sculptor
+68,Neoclassicism,Jose Aparicio,1773,1838,Spanish,Painter
+69,Neoclassicism,Pierre-Athanase Chauvin,1774,1832,French,Painter
+70,Neoclassicism,Pierre-Narcisse Guerin,1774,1833,French,Painter
+71,Neoclassicism,Marie-Francoise-Constance Mayer-Lamartiniere,1775,1821,French,Painter
+72,Neoclassicism,Pelagio Palagi,1775,1860,Italian,Painter/Designer
+73,Neoclassicism,John Vanderlyn,1775,1852,American,Painter
+74,Neoclassicism,Rembrandt Peale,1778,1860,American,Painter
+75,Neoclassicism,Jean-Auguste-Dominique Ingres,1780,1867,French,Painter
+76,Neoclassicism,Jose de Madrazo y Agudo,1781,1859,Spanish,Painter
+77,Neoclassicism,Christoffer Wilhelm Eckersberg,1783,1853,Danish,Painter
+78,Neoclassicism,Francois-Joseph Heim,1787,1865,French,Painter
+79,Neoclassicism,Francois-Joseph Navez,1787,1869,Belgian,Painter
+80,Neoclassicism,John Gibson,1790,1866,British,Sculptor
+81,Neoclassicism,Louis-Leopold Robert,1794,1835,Swiss,Painter
+82,Neoclassicism,John Graham Lough,1798,1876,English,Sculptor
+83,Neoclassicism,Karl Briullov,1799,1852,Russian,Painter
+84,Neoclassicism,Denis Auguste Marie Raffet,1804,1860,French,Painter
+85,Neoclassicism,Horatio Greenough,1805,1852,American,Sculptor
+86,Neoclassicism,Hiram Powers,1805,1873,American,Sculptor
+87,Neoclassicism,Solomon Alexander Hart,1806,1881,English,Painter
+88,Neoclassicism,Giovanni Maria Benzoni,1809,1873,Italian,Sculptor
+89,Neoclassicism,Hippolyte Flandrin,1809,1864,French,Painter
+90,Neoclassicism,Chauncey B. Ives,1810,1894,American,Sculptor
+91,Neoclassicism,Henri Lehmann,1814,1882,German/French,Painter
+92,Neoclassicism,Thomas Crawford,1815,1857,American,Sculptor
+93,Neoclassicism,Jules-Eugene Lenepveu,1819,1898,French,Painter
+94,Neoclassicism,Jules-Elie Delaunay,1828,1891,French,Painter
+95,Neoclassicism,Anselm Feuerbach,1829,1880,German,Painter
+96,Neoclassicism,Harriet Goodhue Hosmer,1830,1908,American,Sculptor
+97,Neoclassicism,Edmonia Lewis,1845,1911,African-American,Sculptor
+98,Neoclassicism,Daniel Chester French,1850,1931,American,Sculptor
+0,Academic Art,Gabriel-Francois Doyen,1726,1806,French,Painter
+1,Academic Art,Martin Drolling,1752,1817,French,Painter
+2,Academic Art,Jerome-Martin Langlois,1779,1838,French,Painter
+3,Academic Art,Jean-Pierre Cortot,1787,1843,French,Sculptor
+4,Academic Art,Victor Schnetz,1787,1870,French,Painter
+5,Academic Art,Horace Vernet,1789,1863,French,Painter
+6,Academic Art,Leon Cogniet,1794,1880,French,Painter
+7,Academic Art,Ary Scheffer,1795,1858,Dutch/French,Painter
+8,Academic Art,Paul Delaroche,1797,1856,French,Painter
+9,Academic Art,Joseph-Nicolas Robert-Fleury,1797,1890,French,Painter
+10,Academic Art,Friedrich von Amerling,1803,1887,Austrian,Painter
+11,Academic Art,Adrien Dauzats,1804,1868,French,Painter
+12,Academic Art,Constantin Hansen,1804,1880,Danish,Painter
+13,Academic Art,Franz Xavier Winterhalter,1805,1873,German,Painter
+14,Academic Art,Charles Gleyre,1806,1874,Swiss,Painter
+15,Academic Art,Auguste Glaize,1807,1893,French,Painter
+16,Academic Art,Eugene-Emmanuel Amaury-Duval,1808,1885,French,Painter
+17,Academic Art,Victor Mottez,1809,1897,French,Painter
+18,Academic Art,Prosper Marilhat,1811,1847,French,Painter
+19,Academic Art,Isidore Pils,1813,1875,French,Painter
+20,Academic Art,Charles Baugniet,1814,1886,Belgian,Painter
+21,Academic Art,Hubertus van Hove,1814,1865,Dutch,Painter
+22,Academic Art,Thomas Couture,1815,1879,French,Painter
+23,Academic Art,Charles Muller,1815,1892,French,Painter
+24,Academic Art,Jean-Louis-Ernest Meissonier,1815,1891,French,Painter
+25,Academic Art,Dominique Louis Papety,1815,1849,French,Painter
+26,Academic Art,Charles Edward Boutibonne,1816,1897,French,Painter
+27,Academic Art,Ivan Aivazovsky,1817,1900,Russian/Armenian,Painter
+28,Academic Art,Alexandre Antigna,1817,1878,French,Painter
+29,Academic Art,Ernest Hebert,1817,1908,French,Painter
+30,Academic Art,Theophile-Emmanuel Duverger,1821,1901,French,Painter
+31,Academic Art,Jean-Louis Hamon,1821,1874,French,Painter
+32,Academic Art,Charles Landelle,1821,1908,French,Painter
+33,Academic Art,Evariste-Vital Luminais,1822,1896,French,Painter
+34,Academic Art,Alexandre Cabanel,1823,1889,French,Painter
+35,Academic Art,Gustave Boulanger,1824,1888,French,Painter
+36,Academic Art,Jean-Leon Gerome,1824,1904,French,Painter/Sculptor
+37,Academic Art,Adolphe William Bouguereau,1825,1905,French,Painter
+38,Academic Art,Charles Chaplin,1825,1891,French,Painter
+39,Academic Art,Ferdinand Heilbuth,1826,1889,French,Painter
+40,Academic Art,Emile Levy,1826,1890,French,Painter
+41,Academic Art,Leon Belly,1827,1877,French,Painter
+42,Academic Art,Paul Baudry,1828,1886,French,Painter
+43,Academic Art,Gabriele Castagnola,1828,1883,Italian,Painter
+44,Academic Art,Adolf Schreyer,1828,1899,German,Painter
+45,Academic Art,Jean-Jacques Henner,1829,1905,French,Painter
+46,Academic Art,Jean-Alexandre-Joseph Falguiere,1831,1900,French,Sculptor
+47,Academic Art,Raffaele Giannetti,1832,1916,Italian,Painter
+48,Academic Art,Leon Bonnat,1833,1922,French,Painter
+49,Academic Art,Alphonse-Marie-Adolphe de Neuville,1835,1885,French,Painter
+50,Academic Art,Franz von Defregger,1835,1921,German,Painter
+51,Academic Art,Jules-Joseph Lefebvre,1836,1911,French,Painter
+52,Academic Art,Pierre-Auguste Cot,1837,1883,French,Painter
+53,Academic Art,Carolus-Duran,1838,1917,French,Painter
+54,Academic Art,Marie-Francois Firmin-Girard,1838,1921,French,Painter
+55,Academic Art,Jean-Paul Laurens,1838,1921,French,Painter
+56,Academic Art,Tony Robert-Fleury,1838,1912,French,Painter
+57,Academic Art,Hans Makart,1840,1884,Austrian,Painter
+58,Academic Art,Emile Munier,1840,1895,French,Painter
+59,Academic Art,Jehan Georges Vibert,1840,1902,French,Painter
+60,Academic Art,Charles Edouard Delort,1841,1895,French,Painter
+61,Academic Art,Giovanni Boldini,1842,1931,Italian,Painter
+62,Academic Art,Alexej Harlamoff,1842,1922,Russian,Painter
+63,Academic Art,Eduardo Zamacois y Zabala,1842,1871,Spanish,Painter
+64,Academic Art,Eugene de Blaas,1843,1931,Austrian,Painter
+65,Academic Art,Henri Regnault,1843,1871,French,Painter
+66,Academic Art,Henryk Siemiradzki,1843,1902,Polish,Painter
+67,Academic Art,Alfred Guillou,1844,1926,French,Painter
+68,Academic Art,Fernand Cormon,1845,1924,French,Painter
+69,Academic Art,Marius-Jean-Antonin Mercie,1845,1916,French,Sculptor/Painter
+70,Academic Art,Edouard Debat-Ponsan,1847,1913,French,Painter
+71,Academic Art,Victor-Gabriel Gilbert,1847,1933,French,Painter
+72,Academic Art,John Macallan Swan,1847,1910,British,Painter/Sculptor
+73,Academic Art,Jean-Joseph Weerts,1847,1927,Belgian,Painter
+74,Academic Art,Edouard Detaille,1848,1912,French,Painter
+75,Academic Art,Theobald Chartran,1849,1907,French,Painter
+76,Academic Art,Edwin Lord Weeks,1849,1903,American,Painter
+77,Academic Art,James Carroll Beckwith,1852,1917,American,Painter
+78,Academic Art,Henri Gervex,1852,1929,French,Painter
+79,Academic Art,Antonio Mancini,1852,1930,Italian,Painter
+80,Academic Art,Paul Jamin,1853,1903,French,Painter
+81,Academic Art,Albert Edelfelt,1854,1905,Finnish,Painter
+82,Academic Art,Ludwig Deutsch,1855,1935,Austrian/French,Painter
+83,Academic Art,Kenyon Cox,1856,1919,American,Painter/Muralist
+84,Academic Art,Francois Flameng,1856,1923,French,Painter
+85,Academic Art,Jules Girardet,1856,1938,French,Painter
+86,Academic Art,Gaetano Bellei,1857,1922,Italian,Painter
+87,Academic Art,Anna Bilinska,1857,1893,Ukrainian,Painter
+88,Academic Art,Delphin Enjolras,1857,1945,French,Painter
+89,Academic Art,Frederic Soulacroix,1858,1933,Italian,Painter
+90,Academic Art,Hans Zatzka,1859,1949,Austrian,Painter
+91,Academic Art,Paul Peel,1860,1892,Canadian,Painter
+92,Academic Art,Jules-Alexis Muenier,1863,1942,French,Painter
+93,Academic Art,Pierre Bonnaud,1865,1930,French,Painter
+94,Academic Art,Charles Spencelayh,1865,1928,English,Painter
+95,Academic Art,Paul Chabas,1869,1937,French,Painter
+96,Academic Art,Charles Sims,1873,1928,English,Painter
+0,Japanese Ukiyo-e,Hishikawa Moronobu,1618,1694,Japanese,Printmaker/Painter
+1,Japanese Ukiyo-e,Kiyonobu,1664,1729,Japanese,Printmaker
+2,Japanese Ukiyo-e,Sukenobu,1671,1751,Japanese,Printmaker
+3,Japanese Ukiyo-e,Sugimura Jihei,1681,1703,Japanese,Printmaker
+4,Japanese Ukiyo-e,Okumura Masanobu,1686,1764,Japanese,Printmaker
+5,Japanese Ukiyo-e,Torii Kiyomasu,1697,1722,Japanese,Printmaker
+6,Japanese Ukiyo-e,Nishimura Shigenaga,1697,1756,Japanese,Printmaker
+7,Japanese Ukiyo-e,Kaigetsudo Anchi,1700,1716,Japanese,Printmaker
+8,Japanese Ukiyo-e,Kaigetsudo Dohan,1710,1720,Japanese,Printmaker
+9,Japanese Ukiyo-e,Harunobu,1724,1770,Japanese,Printmaker
+10,Japanese Ukiyo-e,Katsukawa Shunso,1726,1792,Japanese,Printmaker
+11,Japanese Ukiyo-e,Hasegawa Mitsunobu,1730,1760,Japanese,Printmaker
+12,Japanese Ukiyo-e,Torii Kiyomitsu,1735,1785,Japanese,Printmaker
+13,Japanese Ukiyo-e,Utagawa Toyoharu,1735,1814,Japanese,Printmaker
+14,Japanese Ukiyo-e,Shigemasa,1739,1820,Japanese,Printmaker
+15,Japanese Ukiyo-e,Suzuki Harushige,1747,1818,Japanese,Printmaker
+16,Japanese Ukiyo-e,Kabukido Enkyo,1749,1803,Japanese,Printmaker
+17,Japanese Ukiyo-e,Kiyonaga,1752,1815,Japanese,Printmaker
+18,Japanese Ukiyo-e,Kitagawa Utamaro,1754,1806,Japanese,Printmaker
+19,Japanese Ukiyo-e,Chobunsai Eishi,1756,1829,Japanese,Printmaker
+20,Japanese Ukiyo-e,Torii Kiyotsune,1757,1780,Japanese,Printmaker
+21,Japanese Ukiyo-e,Hokusai Katsushika,1760,1849,Japanese,Printmaker
+22,Japanese Ukiyo-e,Katsukawa Shun'ei,1762,1819,Japanese,Printmaker
+23,Japanese Ukiyo-e,Katsukawa Shunsen,1762,1830,Japanese,Printmaker
+24,Japanese Ukiyo-e,Koryusai,1764,1788,Japanese,Printmaker
+25,Japanese Ukiyo-e,Kitao Masayoshi,1764,1824,Japanese,Printmaker
+26,Japanese Ukiyo-e,Toyokuni,1769,1825,Japanese,Printmaker
+27,Japanese Ukiyo-e,Toshusai Sharaku,1770,1825,Japanese,Printmaker
+28,Japanese Ukiyo-e,Kunimasa,1773,1810,Japanese,Printmaker
+29,Japanese Ukiyo-e,Utagawa Toyokuni II,1777,1835,Japanese,Printmaker
+30,Japanese Ukiyo-e,Totoya Hokkei,1780,1850,Japanese,Printmaker
+31,Japanese Ukiyo-e,Shuncho,1780,1795,Japanese,Printmaker
+32,Japanese Ukiyo-e,Katsukawa Shunzan,1782,1798,Japanese,Printmaker
+33,Japanese Ukiyo-e,Utagawa Kunisada,1786,1864,Japanese,Printmaker
+34,Japanese Ukiyo-e,Kikugawa Eizan,1787,1867,Japanese,Printmaker
+35,Japanese Ukiyo-e,Eishosai Choki,1789,1795,Japanese,Printmaker
+36,Japanese Ukiyo-e,Chokosai Eisho,1790,1799,Japanese,Printmaker
+37,Japanese Ukiyo-e,Ichirakutei Eisui,1790,1823,Japanese,Printmaker
+38,Japanese Ukiyo-e,Keisai Eisen,1790,1848,Japanese,Printmaker
+39,Japanese Ukiyo-e,Choensai Eishin,1795,1810,Japanese,Printmaker
+40,Japanese Ukiyo-e,Hanbei Shokosai,1795,1809,Japanese,Printmaker
+41,Japanese Ukiyo-e,Ando Hiroshige,1797,1858,Japanese,Printmaker
+42,Japanese Ukiyo-e,Utagawa Kuniyoshi,1797,1861,Japanese,Printmaker
+43,Japanese Ukiyo-e,Yurakusai Nagahide,1799,1842,Japanese,Printmaker
+44,Japanese Ukiyo-e,Bunro,1800,1804,Japanese,Printmaker
+45,Japanese Ukiyo-e,Hirosada,1810,1864,Japanese,Printmaker
+46,Japanese Ukiyo-e,Utagawa Kunihiro,1815,1843,Japanese,Printmaker
+47,Japanese Ukiyo-e,Soseki,1822,1877,Japanese,Printmaker
+48,Japanese Ukiyo-e,Ichieisai Yoshitsuya I,1822,1866,Japanese,Printmaker
+49,Japanese Ukiyo-e,Yanagawa Shigenobu II,1824,1860,Japanese,Printmaker
+50,Japanese Ukiyo-e,Hiroshige II,1826,1869,Japanese,Printmaker
+51,Japanese Ukiyo-e,Hokuei,1827,1837,Japanese,Printmaker
+52,Japanese Ukiyo-e,Yoshifuji,1828,1887,Japanese,Printmaker
+53,Japanese Ukiyo-e,Kunimasu,1834,1852,Japanese,Printmaker
+54,Japanese Ukiyo-e,Kunichika,1835,1900,Japanese,Printmaker
+55,Japanese Ukiyo-e,Rakkaken Yoshiyuki,1835,1879,Japanese,Printmaker
+56,Japanese Ukiyo-e,Tsukioka Yoshitoshi,1839,1892,Japanese,Printmaker
+57,Japanese Ukiyo-e,Nakai Yoshitaki,1841,1899,Japanese,Printmaker
+58,Japanese Ukiyo-e,Fusatane,1849,1870,Japanese,Printmaker
+59,Japanese Ukiyo-e,Kunikazu,1849,1867,Japanese,Printmaker
+60,Japanese Ukiyo-e,Utagawa Yoshitora,1850,1880,Japanese,Printmaker
+61,Japanese Ukiyo-e,Enjaku,1857,1865,Japanese,Printmaker
+62,Japanese Ukiyo-e,Adachi Ginko,1874,1897,Japanese,Printmaker
+63,Japanese Ukiyo-e,Hashiguchi Goyo,1880,1921,Japanese,Printmaker
+0,Romanticism,Richard Wilson,1713,1782,Welsh,Painter
+1,Romanticism,George Stubbs,1724,1806,English,Painter
+2,Romanticism,Thomas Gainsborough,1727,1788,English,Painter
+3,Romanticism,Sawrey Gilpin,1733,1807,English,Painter
+4,Romanticism,Joseph Wright of Derby,1734,1797,English,Painter
+5,Romanticism,John Henry Fuseli,1741,1825,Swiss/British,Painter
+6,Romanticism,Francisco de Goya,1746,1828,Spanish,Painter/Printmaker
+7,Romanticism,John Robert Cozens,1752,1797,English,Painter
+8,Romanticism,Antoine Berjon,1754,1843,French,Painter
+9,Romanticism,Sir Henry Raeburn,1756,1823,Scottish,Painter
+10,Romanticism,William Blake,1757,1827,British,Writer/Painter/Illustrator
+11,Romanticism,Carl Wilhelm Kolbe I,1757,1835,German,Painter/Engraver
+12,Romanticism,Marguerite Gerard,1761,1837,French,Painter
+13,Romanticism,John Crome,1768,1821,English,Painter
+14,Romanticism,James Ward,1769,1859,English,Painter
+15,Romanticism,Antoine-Jean Gros,1771,1835,French,Painter
+16,Romanticism,Caspar David Friedrich,1774,1840,German,Painter
+17,Romanticism,Thomas Girtin,1775,1802,English,Painter
+18,Romanticism,Joseph Mallord William Turner,1775,1851,English,Painter
+19,Romanticism,John Constable,1776,1837,English,Painter
+20,Romanticism,Vasilii Andreevich Tropinin,1776,1857,Russian,Painter
+21,Romanticism,Philippe Otto Runge,1777,1810,German,Painter
+22,Romanticism,Washington Allston,1779,1843,American,Painter
+23,Romanticism,John Sell Cotman,1782,1842,English,Painter
+24,Romanticism,Francois Rude,1784,1855,French,Sculptor
+25,Romanticism,Benjamin Robert Haydon,1786,1846,English,Painter
+26,Romanticism,William Mulready,1786,1863,Irish,Painter
+27,Romanticism,Pierre Jean David d'Angers,1788,1856,French,Sculptor
+28,Romanticism,Johan Christian Dahl,1788,1857,Norwegian,Painter
+29,Romanticism,Franz Pforr,1788,1812,German,Painter
+30,Romanticism,Wilhelm von Schadow,1788,1862,German,Painter
+31,Romanticism,Carl Gustav Carus,1789,1869,German,Painter
+32,Romanticism,John Martin,1789,1854,English,Painter
+33,Romanticism,Louis-Charles-Auguste Couder,1790,1873,French,Painter
+34,Romanticism,Theodore Gericault,1791,1824,French,Painter
+35,Romanticism,Francesco Hayez,1791,1882,Italian,Painter
+36,Romanticism,Sil'vestr Feodosievich Shchedrin,1791,1830,Russian,Painter
+37,Romanticism,Nicolas-Toussaint Charlet,1792,1845,French,Painter
+38,Romanticism,John Linnell,1792,1882,English,Painter
+39,Romanticism,Ferdinand Georg Waldmuller,1793,1865,Austrian,Painter
+40,Romanticism,Antoine-Louis Barye,1795,1875,French,Sculptor/Painter
+41,Romanticism,Carl Blechen,1798,1840,German,Painter
+42,Romanticism,Eugene Delacroix,1798,1863,French,Painter
+43,Romanticism,Karl Briullov,1799,1852,Russian,Painter
+44,Romanticism,John Quidor,1801,1881,American,Painter
+45,Romanticism,Richard Parkes Bonington,1802,1828,English,Painter
+46,Romanticism,Theodore Gudin,1802,1880,French,Painter
+47,Romanticism,Alexandre-Gabriel Decamps,1803,1860,French,Painter
+48,Romanticism,Adrian Ludwig Richter,1803,1884,German,Painter
+49,Romanticism,Moritz Von Schwind,1804,1871,Austrian,Painter
+50,Romanticism,Samuel Palmer,1805,1881,English,Painter
+51,Romanticism,Antoine Etex,1808,1888,French,Sculptor/Painter
+52,Romanticism,Carl Friedrich Lessing,1808,1880,German,Painter
+53,Romanticism,Auguste Preault,1809,1879,French,Sculptor
+54,Romanticism,Louis Gallait,1810,1887,Belgian,Painter
+55,Romanticism,Theodor von Holst,1810,1844,English,Painter
+56,Romanticism,Wouterus Verschuur,1812,1874,Dutch,Painter
+57,Romanticism,Emanuel Gottlieb Leutze,1816,1868,German/American,Painter
+58,Romanticism,William Rimmer,1816,1879,English/American,Painter/Sculptor
+59,Romanticism,Theodore Chasseriau,1819,1856,French,Painter
+60,Romanticism,John Ruskin,1819,1900,English,Writer/Painter
+61,Romanticism,Eugene Fromentin,1820,1876,French,Painter/Writer
+62,Romanticism,Marcus Larson,1825,1864,Swedish,Painter
+63,Romanticism,John Quincy Adams Ward,1830,1910,American,Sculptor
+64,Romanticism,Gustave Dore,1832,1883,French,Illustrator
+65,Romanticism,Hans von Marees,1837,1887,German,Painter
+0,The Hudson River School,Thomas Doughty,1793,1856,American,Painter
+1,The Hudson River School,Asher B. Durand,1796,1886,American,Painter
+2,The Hudson River School,Thomas Cole,1801,1848,English/American,Painter
+3,The Hudson River School,Robert W. Weir,1803,1889,American,Painter
+4,The Hudson River School,V. DeGrailly,1804,1889,French,Painter
+5,The Hudson River School,Fitz Hugh Lane,1804,1865,American,Painter
+6,The Hudson River School,Thomas Chambers,1808,1866,English/American,Painter
+7,The Hudson River School,Johann Hermann Carmiencke,1810,1867,German/American,Painter
+8,The Hudson River School,John William Casilear,1811,1893,American,Painter
+9,The Hudson River School,George Loring Brown,1814,1889,American,Painter
+10,The Hudson River School,Edmund Coates,1816,1871,American,Painter
+11,The Hudson River School,Regis-Francois Gignoux,1816,1882,French/American,Painter
+12,The Hudson River School,Daniel Huntington,1816,1906,American,Painter
+13,The Hudson River School,John Frederick Kensett,1816,1872,American,Painter
+14,The Hudson River School,Thomas Prichard Rossiter,1818,1871,American,Painter
+15,The Hudson River School,Martin Johnson Heade,1819,1904,American,Painter
+16,The Hudson River School,Thomas Worthington Whittredge,1820,1910,American,Painter
+17,The Hudson River School,Robert Scott Duncanson,1821,1872,African-American,Painter
+18,The Hudson River School,William Louis Sonntag,1822,1900,American,Painter
+19,The Hudson River School,Jasper Francis Cropsey,1823,1900,American,Painter
+20,The Hudson River School,Sanford Robinson Gifford,1823,1880,American,Painter
+21,The Hudson River School,William Hart,1823,1894,Scottish/American,Painter
+22,The Hudson River School,Charles W. Knapp,1823,1900,American,Painter
+23,The Hudson River School,Paul Weber,1823,1916,German/American,Painter
+24,The Hudson River School,George Inness,1825,1894,American,Painter
+25,The Hudson River School,Frederic Edwin Church,1826,1900,American,Painter
+26,The Hudson River School,David Johnson,1827,1908,American,Painter
+27,The Hudson River School,James McDougal Hart,1828,1901,Scottish/American,Painter
+28,The Hudson River School,Thomas Hill,1829,1908,English/American,Painter
+29,The Hudson River School,Albert Bierstadt,1830,1902,German/American,Painter
+30,The Hudson River School,Herman Herzog,1831,1932,German/American,Painter
+31,The Hudson River School,Louis Remy Mignot,1831,1870,American,Painter
+32,The Hudson River School,Samuel Colman 1832-1920,1832,1920,American,Painter
+33,The Hudson River School,Francis A. Silva,1835,1886,American,Painter
+34,The Hudson River School,Alfred Thompson Bricher,1837,1908,American,Painter
+35,The Hudson River School,Thomas Moran,1837,1926,English/American,Painter
+0,The Pre-Raphaelite Brotherhood,William Bell Scott,1811,1890,Scottish,Painter
+1,The Pre-Raphaelite Brotherhood,William Davis,1812,1873,British,Painter
+2,The Pre-Raphaelite Brotherhood,George Frederic Watts,1817,1904,English,Painter/Sculptor
+3,The Pre-Raphaelite Brotherhood,Ford Madox Brown,1821,1893,English,Painter
+4,The Pre-Raphaelite Brotherhood,Thomas Seddon,1821,1856,English,Painter
+5,The Pre-Raphaelite Brotherhood,James Smetham,1821,1889,English,Painter/Writer
+6,The Pre-Raphaelite Brotherhood,Sophie Anderson,1823,1903,French,Painter
+7,The Pre-Raphaelite Brotherhood,Daniel Alexander Williamson,1823,1903,British,Painter
+8,The Pre-Raphaelite Brotherhood,James Collinson,1825,1881,English,Painter
+9,The Pre-Raphaelite Brotherhood,Alexander Munro,1825,1871,English,Sculptor
+10,The Pre-Raphaelite Brotherhood,Thomas Woolner,1825,1892,English,Sculptor
+11,The Pre-Raphaelite Brotherhood,Robert Braithwaite Martineau,1826,1869,English,Painter
+12,The Pre-Raphaelite Brotherhood,William Holman Hunt,1827,1910,English,Painter
+13,The Pre-Raphaelite Brotherhood,James Campbell,1828,1893,British,Painter
+14,The Pre-Raphaelite Brotherhood,Charles Allston Collins,1828,1873,British,Painter
+15,The Pre-Raphaelite Brotherhood,Dante Gabriel Rossetti,1828,1882,English,Painter
+16,The Pre-Raphaelite Brotherhood,Frederic George Stephens,1828,1907,English,Painter
+17,The Pre-Raphaelite Brotherhood,John Everett Millais,1829,1896,English,Painter
+18,The Pre-Raphaelite Brotherhood,Frederick Sandys,1829,1904,English,Painter
+19,The Pre-Raphaelite Brotherhood,Elizabeth Eleanor Siddal,1829,1862,English,Painter
+20,The Pre-Raphaelite Brotherhood,John Roddam Spencer Stanhope,1829,1908,English,Painter
+21,The Pre-Raphaelite Brotherhood,Henry Wallis,1830,1916,English,Painter
+22,The Pre-Raphaelite Brotherhood,Joanna Boyce,1831,1861,English,Painter
+23,The Pre-Raphaelite Brotherhood,John Brett,1831,1902,English,Painter
+24,The Pre-Raphaelite Brotherhood,Arthur Hughes,1832,1915,English,Painter
+25,The Pre-Raphaelite Brotherhood,Edward Burne-Jones,1833,1898,British,Painter
+26,The Pre-Raphaelite Brotherhood,William Morris,1834,1896,English,Writer/Designer
+27,The Pre-Raphaelite Brotherhood,Emily Mary Osborn,1834,1893,English,Painter
+28,The Pre-Raphaelite Brotherhood,Valentine Cameron Prinsep,1838,1904,Indian/British,Painter
+29,The Pre-Raphaelite Brotherhood,Henry Holiday,1839,1927,British,Painter/Stained Glass Artist
+30,The Pre-Raphaelite Brotherhood,Simeon Solomon,1840,1905,English,Painter
+31,The Pre-Raphaelite Brotherhood,Thomas Matthews Rooke,1842,1942,English,Painter
+32,The Pre-Raphaelite Brotherhood,Lucy Madox Brown,1843,1894,English,Painter
+33,The Pre-Raphaelite Brotherhood,Anna Lea Merritt,1844,1930,American,Painter
+34,The Pre-Raphaelite Brotherhood,Marie Spartali Stillman,1844,1927,English,Painter
+35,The Pre-Raphaelite Brotherhood,Annie Louise Swynnerton,1844,1933,English,Painter
+36,The Pre-Raphaelite Brotherhood,Edward Frederick Brewtnall,1846,1902,English,Painter
+37,The Pre-Raphaelite Brotherhood,Charles Fairfax Murray,1849,1919,English,Painter
+38,The Pre-Raphaelite Brotherhood,John Melhuish Strudwick,1849,1935,British,Painter
+39,The Pre-Raphaelite Brotherhood,John William Waterhouse,1849,1917,English,Painter
+40,The Pre-Raphaelite Brotherhood,John Lee,1850,1870,British,Painter
+41,The Pre-Raphaelite Brotherhood,Edward Robert Hughes,1851,1917,English,Painter
+42,The Pre-Raphaelite Brotherhood,Edmund Blair-Leighton,1853,1922,English,Painter
+43,The Pre-Raphaelite Brotherhood,Sir Frank Dicksee,1853,1928,English,Painter
+44,The Pre-Raphaelite Brotherhood,Thomas Cooper Gotch,1854,1931,English,Painter
+45,The Pre-Raphaelite Brotherhood,Evelyn de Morgan,1855,1919,English,Painter
+46,The Pre-Raphaelite Brotherhood,Kate Elizabeth Bunce,1856,1927,English,Painter
+47,The Pre-Raphaelite Brotherhood,Arthur Hacker,1858,1919,English,Painter
+48,The Pre-Raphaelite Brotherhood,Henry Maynell Rheam,1859,1920,British,Painter
+49,The Pre-Raphaelite Brotherhood,Sidney Meteyard,1868,1947,English,Painter
+50,The Pre-Raphaelite Brotherhood,Eleanor Fortescue-Brickdale,1871,1945,English,Painter
+51,The Pre-Raphaelite Brotherhood,John Byam Shaw,1872,1919,Indian/British,Painter
+52,The Pre-Raphaelite Brotherhood,Frank Cowper,1877,1958,English,Painter
+0,Victorian Classicism,Lord Frederic Leighton,1830,1896,English,Painter/Sculptor
+1,Victorian Classicism,Sir Lawrence Alma-Tadema,1836,1912,Dutch/English,Painter
+2,Victorian Classicism,Sir Edward Poynter,1836,1919,English,Painter
+3,Victorian Classicism,Albert Joseph Moore,1841,1893,English,Painter
+4,Victorian Classicism,John Collier,1850,1934,English,Painter
+5,Victorian Classicism,Thomas Ralph Spence,1855,1918,British,Painter
+6,Victorian Classicism,Solomon Joseph Solomon,1860,1927,British,Painter
+7,Victorian Classicism,John William Godward,1861,1922,English,Painter
+8,Victorian Classicism,Sir William Reynolds-Stephens,1862,1943,British,Sculptor
+9,Victorian Classicism,Herbert Draper,1863,1920,English,Painter
+10,Victorian Classicism,Aby Altson,1864,1949,Australian,Painter
+11,Victorian Classicism,Arthur Wardle,1864,1949,British,Painter
+0,Symbolism,George Frederic Watts,1817,1904,English,Painter/Sculptor
+1,Symbolism,Pierre Puvis de Chavannes,1824,1898,French,Painter
+2,Symbolism,Gustave Moreau,1826,1898,French,Painter
+3,Symbolism,Arnold Bocklin,1827,1901,Swiss,Painter
+4,Symbolism,Felicien Rops,1833,1898,Belgian,Engraver
+5,Symbolism,Elihu Vedder,1836,1923,American,Painter
+6,Symbolism,Hans Thoma,1839,1924,German,Painter
+7,Symbolism,Odilon Redon,1840,1916,French,Painter
+8,Symbolism,Xavier Mellery,1845,1921,Belgian,Painter
+9,Symbolism,Eugene Carriere,1849,1906,French,Painter
+0,Realism,Peter von Cornelius,1783,1867,German,Painter
+1,Realism,Jean-Baptiste-Camille Corot,1796,1875,French,Painter
+2,Realism,Constantin Guys,1802,1892,French,Illustrator
+3,Realism,Paul Gavarni,1804,1866,French,Engraver
+4,Realism,Josef Danhauser,1805,1845,Austrian,Painter
+5,Realism,William Dyce,1806,1864,Scottish,Painter
+6,Realism,William Sidney Mount,1807,1868,American,Painter
+7,Realism,Honore Daumier,1808,1879,French,Illustrator
+8,Realism,Christen Kobke,1810,1848,Danish,Painter
+9,Realism,George Caleb Bingham,1811,1879,American,Painter
+10,Realism,Jean-Francois Millet,1814,1875,French,Painter
+11,Realism,Adolf von Menzel,1815,1905,German,Painter
+12,Realism,Francois Bonvin,1817,1887,French,Painter
+13,Realism,Gustave Courbet,1819,1877,French,Painter
+14,Realism,Rosa Bonheur,1822,1899,French,Painter
+15,Realism,Augustin Theodule Ribot,1823,1891,French,Painter
+16,Realism,Auguste Bonheur,1824,1884,French,Painter
+17,Realism,Gustave Brion,1824,1877,French,Painter
+18,Realism,Emmanuel Fremiet,1824,1910,French,Sculptor
+19,Realism,Jozef Israels,1824,1911,Dutch,Painter
+20,Realism,Giovanni Fattori,1825,1908,Italian,Painter
+21,Realism,Silvestro Lega,1826,1895,Italian,Painter
+22,Realism,Paul Seignac,1826,1904,French,Painter
+23,Realism,Jules Breton,1827,1906,French,Painter
+24,Realism,Jean-Baptiste Carpeaux,1827,1875,French,Sculptor/Painter
+25,Realism,Jervis McEntee,1828,1891,American,Painter
+26,Realism,John Quincy Adams Ward,1830,1910,American,Sculptor
+27,Realism,John George Brown,1831,1913,British/American,Painter
+28,Realism,Edouard Manet,1832,1883,French,Painter
+29,Realism,Antoine Vollon,1833,1900,French,Painter
+30,Realism,Edgar Degas,1834,1917,French,Painter/Sculptor
+31,Realism,Henri Fantin-Latour,1836,1904,French,Painter
+32,Realism,Eduardo Rosales,1836,1873,Spanish,Painter
+33,Realism,Jules Dalou,1838,1902,French,Sculptor
+34,Realism,Kitty Kielland,1843,1914,Norwegian,Painter
+35,Realism,Thomas Eakins,1844,1916,American,Painter
+36,Realism,Leon Augustin L'hermitte,1844,1925,French,Painter
+37,Realism,Wilhelm Leibl,1844,1900,German,Painter
+38,Realism,Mihaly Munkacsy,1844,1900,Hungarian,Painter
+39,Realism,Ilya Repin,1844,1930,Ukrainian/Russian,Painter
+40,Realism,Jules Bastien-Lepage,1848,1884,French,Painter
+41,Realism,Frank Duveneck,1848,1919,American,Painter
+42,Realism,Francisco Pradilla Ortiz,1848,1921,Spanish,Painter
+43,Realism,Augustus Saint-Gaudens,1848,1907,Irish/American,Sculptor
+44,Realism,Frants Henningsen,1850,1908,Danish,Painter
+45,Realism,Thomas Anshutz,1851,1912,American,Painter
+46,Realism,Julien Dupre,1851,1910,French,Painter
+47,Realism,Viggo Johansen,1851,1935,Danish,Painter
+48,Realism,Carl Locher,1851,1915,Danish,Painter
+49,Realism,Wilhelm Trubner,1851,1917,German,Painter
+50,Realism,Sir George Clausen,1852,1944,English,Painter
+51,Realism,Pascal-Adolphe-Jean Dagnan-Bouveret,1852,1929,French,Painter
+52,Realism,Jean-Louis Forain,1852,1931,French,Painter/Illustrator
+53,Realism,Christian Krohg,1852,1925,Norwegian,Painter
+54,Realism,Carl Larsson,1853,1919,Swedish,Painter
+55,Realism,George Carline,1855,1920,English,Painter
+56,Realism,Gilbert Gaul,1855,1919,American,Painter
+57,Realism,Erik Werenskiold,1855,1936,Norwegian,Painter
+58,Realism,Stanhope Alexander Forbes,1857,1947,Irish,Painter
+59,Realism,Henry H. La Thangue,1859,1929,British,Painter
+60,Realism,Henry Ossawa Tanner,1859,1937,African-American,Painter
+61,Realism,Anders Zorn,1860,1920,Swedish,Painter
+62,Realism,Charles Cottet,1863,1925,French,Painter
+63,Realism,Emile Friant,1863,1932,French,Painter
+64,Realism,Joaquin Sorolla y Bastida,1863,1923,Spanish,Painter
+65,Realism,Harald Sohlberg,1869,1935,Norwegian,Painter
+66,Realism,Russell Drysdale,1912,1981,British/Australian,Painter
+0,The Barbizon School,Camille Flers,1802,1868,French,Painter
+1,The Barbizon School,Narcisse-Virgile Diaz de la Pena,1807,1876,French,Painter
+2,The Barbizon School,Constant Troyon,1810,1865,French,Painter
+3,The Barbizon School,Jules Dupre,1811,1889,French,Painter
+4,The Barbizon School,Theodore Rousseau,1812,1867,French,Painter
+5,The Barbizon School,Charles Emile Jacque,1813,1894,French,Painter
+6,The Barbizon School,Leon-Victor Dupre,1816,1879,French,Painter
+7,The Barbizon School,Charles-Francois Daubigny,1817,1878,French,Painter
+8,The Barbizon School,Antonio Fontanesi,1818,1882,Italian,Painter
+9,The Barbizon School,William Morris Hunt,1824,1879,American,Painter
+10,The Barbizon School,Jules Jacques Veyrassat,1828,1893,French,Painter
+11,The Barbizon School,Paul Desire Trouillebert,1829,1900,French,Painter
+12,The Barbizon School,Homer Dodge Martin,1836,1897,American,Painter
+13,The Barbizon School,Alexis Jean Fournier,1865,1948,American,Painter
+0,Tonalism,George Fuller,1822,1884,American,Painter
+1,Tonalism,William Morris Hunt,1824,1879,American,Painter
+2,Tonalism,George Inness,1825,1894,American,Painter
+3,Tonalism,James McNeill Whistler,1834,1903,American,Painter/Printmaker
+4,Tonalism,John La Farge,1835,1910,American,Painter
+5,Tonalism,Homer Dodge Martin,1836,1897,American,Painter
+6,Tonalism,Alexander Helwig Wyant,1836,1892,American,Painter
+7,Tonalism,Maria A'Becket,1840,1904,American,Painter
+8,Tonalism,Robert Swain Gifford,1840,1905,American,Painter
+9,Tonalism,John J. Enneking,1841,1916,American,Painter
+10,Tonalism,Ralph Albert Blakelock,1847,1919,American,Painter
+11,Tonalism,Albert Pinkham Ryder,1847,1917,American,Painter
+12,Tonalism,Charles Melville Dewey,1849,1937,American,Painter
+13,Tonalism,Dwight W. Tryon,1849,1925,American,Painter
+14,Tonalism,Charles Harry Eaton,1850,1901,American,Painter
+15,Tonalism,Thomas Wilmer Dewing,1851,1938,American,Painter
+16,Tonalism,Ben Foster,1852,1926,American,Painter
+17,Tonalism,Gertrude Kasebier,1852,1934,American,Photographer
+18,Tonalism,Julian Alden Weir,1852,1919,American,Painter
+19,Tonalism,T. Alexander Harrison,1853,1930,American,Painter
+20,Tonalism,John Francis Murphy,1853,1921,American,Painter
+21,Tonalism,John Henry Twachtman,1853,1902,American,Painter
+22,Tonalism,Lowell Birge Harrison,1854,1929,American,Painter
+23,Tonalism,Leonard Ochtman,1854,1934,Dutch/American,Painter
+24,Tonalism,Charles Harold Davis,1856,1933,American,Painter
+25,Tonalism,Franklin de Haven,1856,1934,American,Painter
+26,Tonalism,Charles Appel,1857,1928,American,Painter
+27,Tonalism,Bruce Crane,1857,1937,American,Painter
+28,Tonalism,Charles Warren Eaton,1857,1937,American,Painter
+29,Tonalism,Henry Ward Ranger,1858,1916,American,Painter
+30,Tonalism,Elliott Daingerfield,1859,1932,American,Painter
+31,Tonalism,William Langson Lathrop,1859,1938,American,Painter
+32,Tonalism,Charles Paul Gruppe,1860,1940,Canadian/American,Painter
+33,Tonalism,Arthur Frank Mathews,1860,1945,American,Painter
+34,Tonalism,Karl Emil Termohlen,1863,1938,Danish/American,Painter
+35,Tonalism,Alfred Stieglitz,1864,1946,American,Photographer
+36,Tonalism,Leon Dabo,1865,1960,French/American,Painter
+37,Tonalism,Louis Paul Dessar,1867,1952,American,Painter
+38,Tonalism,Chauncey F. Ryder,1868,1949,American,Painter
+39,Tonalism,Henry Percy Gray,1869,1952,American,Painter
+40,Tonalism,Xavier Martinez,1869,1943,Mexican/American,Painter
+41,Tonalism,Granville Redmond,1871,1935,American,Painter
+42,Tonalism,Clarence H. White,1871,1925,American,Photographer
+43,Tonalism,Aaron Harry Gorson,1872,1933,American,Painter
+44,Tonalism,Max Meldrum,1875,1955,Scottish/Australian,Painter
+45,Tonalism,Edward J. Steichen,1879,1973,Luxembourgeois/American,Photographer/Painter
+46,Tonalism,Alvin Langdon Coburn,1882,1966,American/British,Photographer
+47,Tonalism,Imogen Cunningham,1883,1976,American,Photographer
+48,Tonalism,Laura Gilpin,1891,1979,American,Photographer
+0,Post-Impressionism,Paul Cezanne,1839,1906,French,Painter
+1,Post-Impressionism,Henri Rousseau,1844,1910,French,Painter
+2,Post-Impressionism,Paul Gauguin,1848,1903,French,Painter
+3,Post-Impressionism,Claude-Emile Schuffenecker,1851,1934,French,Painter
+4,Post-Impressionism,Vincent van Gogh,1853,1890,Dutch,Painter
+5,Post-Impressionism,Henri Martin,1860,1943,French,Painter
+6,Post-Impressionism,Roderic O'Conor,1860,1940,Irish,Painter
+7,Post-Impressionism,Charles Filiger,1863,1928,French,Painter/Printmaker
+8,Post-Impressionism,Henri de Toulouse-Lautrec,1864,1901,French,Painter/Printmaker
+9,Post-Impressionism,Suzanne Valadon,1865,1938,French,Painter
+10,Post-Impressionism,Roger Fry,1866,1934,English,Painter/Writer
+11,Post-Impressionism,Jan Verkade,1868,1946,Dutch,Painter
+12,Post-Impressionism,Edouard Vuillard,1868,1940,French,Painter
+0,Les Nabis,Aristide Maillol,1861,1944,French,Sculptor
+1,Les Nabis,Paul Ranson,1864,1909,French,Painter
+2,Les Nabis,Felix Vallotton,1865,1925,Swiss/French,Painter
+3,Les Nabis,Pierre Bonnard,1867,1947,French,Painter
+4,Les Nabis,Ker Xavier Roussel,1867,1944,French,Painter
+5,Les Nabis,Georges Lacombe,1868,1916,French,Painter/Sculptor
+6,Les Nabis,Edouard Vuillard,1868,1940,French,Painter
+7,Les Nabis,Maurice Denis,1870,1943,French,Painter
+0,Pointillism,Camille Pissarro,1830,1903,Caribbean/French,Painter
+1,Pointillism,Gaetano Previati,1852,1920,Italian,Painter
+2,Pointillism,Angelo Morbelli,1853,1919,Italian,Painter
+3,Pointillism,Charles Angrand,1854,1926,French,Painter
+4,Pointillism,Hippolyte Petitjean,1854,1929,French,Painter
+5,Pointillism,Henri-Edmond Cross,1856,1910,French,Painter
+6,Pointillism,Maximilien Luce,1858,1941,French,Painter
+7,Pointillism,Giovanni Segantini,1858,1899,Italian,Painter
+8,Pointillism,Georges Seurat,1859,1891,French,Painter
+9,Pointillism,Theo van Rysselberghe,1862,1926,Belgian,Painter
+10,Pointillism,Paul Signac,1863,1935,French,Painter
+11,Pointillism,Georges Lemmen,1865,1916,Belgian,Painter
+12,Pointillism,Giuseppe Pellizza da Volpedo,1868,1907,Italian,Painter
+13,Pointillism,Lucie Cousturier,1870,1925,French,Painter/Writer
+0,Fauvism,Henri Matisse,1869,1954,French,Painter/Sculptor
+1,Fauvism,Louis Valtat,1869,1952,French,Painter
+2,Fauvism,Georges Rouault,1871,1958,French,Painter
+3,Fauvism,Henri Manguin,1874,1949,French,Painter
+4,Fauvism,Albert Marquet,1875,1947,French,Painter
+5,Fauvism,Jean Puy,1876,1960,French,Painter
+6,Fauvism,Maurice de Vlaminck,1876,1958,French,Painter
+7,Fauvism,Kees van Dongen,1877,1968,Dutch,Painter
+8,Fauvism,Raoul Dufy,1877,1953,French,Painter
+9,Fauvism,Charles Camoin,1879,1965,French,Painter
+10,Fauvism,Othon Friesz,1879,1949,French,Painter
+11,Fauvism,Andre Derain,1880,1954,French,Painter/Sculptor
+12,Fauvism,Georges Braque,1882,1963,French,Painter
+13,Fauvism,Ben Benn,1884,1983,Russian/American,Painter
+14,Fauvism,Roger de la Fresnaye,1885,1925,French,Painter
+15,Fauvism,Marguerite Thompson Zorach,1887,1968,American,Painter
+0,Art Nouveau,Felix Bracquemond,1833,1914,French,Engraver
+1,Art Nouveau,Eugene Grasset,1845,1917,Swiss/French,Designer
+2,Art Nouveau,Emile Galle,1846,1904,French,Glassmaker
+3,Art Nouveau,Louis Comfort Tiffany,1848,1933,American,Stained Glass Artist
+4,Art Nouveau,Antoni Gaudi,1852,1926,Spanish,Architect
+5,Art Nouveau,Ferdinand Hodler,1853,1918,Swiss,Painter
+6,Art Nouveau,Adolphe-Leon Willette,1857,1926,French,Illustrator
+7,Art Nouveau,Theophile Alexandre Steinlen,1859,1923,Swiss/French,Painter/Printmaker
+8,Art Nouveau,Edmond-Francois Aman-Jean,1860,1935,French,Painter
+9,Art Nouveau,Alphonse Mucha,1860,1939,Czech,Printmaker
+10,Art Nouveau,Victor Horta,1861,1947,Belgian,Architect/Designer
+11,Art Nouveau,Aristide Maillol,1861,1944,French,Sculptor
+12,Art Nouveau,Gustav Klimt,1862,1918,Austrian,Painter
+13,Art Nouveau,Henry van de Velde,1863,1957,Belgian,Designer
+14,Art Nouveau,Lucien Levy-Dhurmer,1865,1953,French,Painter
+15,Art Nouveau,Georges Lemmen,1865,1916,Belgian,Painter
+16,Art Nouveau,Hector Guimard,1867,1942,French,Architect/Designer
+17,Art Nouveau,Georges de Feure,1868,1943,Dutch,Painter/Printmaker
+18,Art Nouveau,Charles Rennie Mackintosh,1868,1928,Scottish,Designer
+19,Art Nouveau,Johan Thorn Prikker,1868,1932,Dutch,Illustrator
+20,Art Nouveau,Aubrey Beardsley,1872,1898,English,Illustrator
+0,The Golden Age of Illustration,Sir John Tenniel,1820,1914,English,Illustrator
+1,The Golden Age of Illustration,Walter Crane,1845,1915,English,Illustrator
+2,The Golden Age of Illustration,Kate Greenaway,1846,1901,English,Illustrator
+3,The Golden Age of Illustration,Edwin Austin Abbey,1852,1911,American,Illustrator/Muralist
+4,The Golden Age of Illustration,Howard Pyle,1853,1911,American,Illustrator
+5,The Golden Age of Illustration,Louis John Rhead,1858,1926,English/American,Illustrator
+6,The Golden Age of Illustration,Jessie Willcox Smith,1863,1935,American,Illustrator
+7,The Golden Age of Illustration,Edward Penfield,1866,1925,American,Illustrator
+8,The Golden Age of Illustration,Beatrix Potter,1866,1943,English,Illustrator
+9,The Golden Age of Illustration,Charles Dana Gibson,1867,1944,American,Illustrator
+10,The Golden Age of Illustration,Arthur Rackham,1867,1939,English,Illustrator
+11,The Golden Age of Illustration,Maxfield Parrish,1870,1966,American,Illustrator
+0,Art Deco,Rene Lalique,1860,1945,French,Glassmaker
+1,Art Deco,Leon Bakst,1866,1924,Russian,Designer/Illustrator
+2,Art Deco,Pierre-Felix Fix-Masseau,1869,1937,French,Sculptor/Printmaker
+3,Art Deco,Josef Hoffmann,1870,1956,Austrian,Architect/Designer
+4,Art Deco,Jean Dunand,1877,1942,Swiss,Designer
+5,Art Deco,Lee Lawrie,1877,1963,German/American,Sculptor
+6,Art Deco,Eileen Gray,1879,1976,Irish,Designer
+7,Art Deco,Emile-Jacques Ruhlmann,1879,1933,French,Designer
+8,Art Deco,Raymond Hood,1881,1934,American,Architect
+9,Art Deco,Jean Dupas,1882,1964,French,Designer
+10,Art Deco,William Van Alen,1883,1954,American,Architect
+11,Art Deco,Walter Dorwin Teague,1883,1960,American,Designer
+12,Art Deco,Paul Manship,1886,1966,American,Sculptor
+13,Art Deco,Winold Reiss,1886,1953,German/American,Painter
+14,Art Deco,Louis Icart,1888,1950,French,Painter/Illustrator
+15,Art Deco,C. Paul Jennewein,1890,1978,German/American,Sculptor
+16,Art Deco,Erte,1892,1990,Russian/French,Painter/Designer
+17,Art Deco,Norman Bel Geddes,1893,1958,American,Designer
+18,Art Deco,Meredith Frampton,1894,1984,British,Painter
+19,Art Deco,Tamara de Lempicka,1898,1980,Polish/American,Painter
+20,Art Deco,Cassandre,1901,1968,Ukrainian/French,Printmaker
+21,Art Deco,Viktor Schreckengost,1906,2008,American,Designer
+0,Ashcan School,Robert Henri,1865,1929,American,Painter
+1,Ashcan School,George Luks,1866,1933,American,Painter
+2,Ashcan School,William Glackens,1870,1938,American,Painter
+3,Ashcan School,John Sloan,1871,1951,American,Painter
+4,Ashcan School,Everett Shinn,1876,1953,American,Painter
+5,Ashcan School,George Wesley Bellows,1882,1925,American,Painter
+0,Camden Town Group,Walter Richard Sickert,1860,1942,British,Painter
+1,Camden Town Group,Lucien Pissarro,1863,1944,French,Painter
+2,Camden Town Group,Robert Bevan,1865,1925,English,Painter
+3,Camden Town Group,Harold Gilman,1876,1919,British,Painter
+4,Camden Town Group,Charles Isaac Ginner,1878,1952,French,Painter
+5,Camden Town Group,Spencer Gore,1878,1914,English,Painter
+6,Camden Town Group,Augustus John,1878,1961,British,Painter
+7,Camden Town Group,James Bolivar Manson,1879,1945,British,Painter
+8,Camden Town Group,Wyndham Lewis,1882,1957,Canadian/British,Writer/Painter
+9,Camden Town Group,Henry Lamb,1883,1960,English,Painter
+10,Camden Town Group,Duncan Grant,1885,1978,Scottish,Painter
+0,American Regionalism,Thomas Hart Benton,1889,1975,American,Painter
+1,American Regionalism,Marvin Cone,1891,1965,American,Painter
+2,American Regionalism,Grant Wood,1891,1942,American,Painter
+3,American Regionalism,Molly Luce,1896,1986,American,Painter
+4,American Regionalism,Paul Starrett Sample,1896,1974,American,Painter
+5,American Regionalism,John Steuart Curry,1897,1946,American,Painter
+6,American Regionalism,Alexandre Hogue,1898,1994,American,Painter
+7,American Regionalism,Hale Woodruff,1900,1980,African-American,Painter
+8,American Regionalism,Russell Limbach,1904,1971,American,Printmaker
+9,American Regionalism,Dale Nichols,1904,1995,American,Painter
+10,American Regionalism,Clyde Singer,1908,1999,American,Painter
+11,American Regionalism,Aaron Pyle,1909,1972,American,Painter
+12,American Regionalism,John Rogers Cox,1915,1990,American,Painter
+13,American Regionalism,Roger Medearis,1920,2001,American,Painter
+0,Social Realism,Frederick Walker,1840,1875,English,Painter
+1,Social Realism,Frank Holl,1845,1888,British,Painter
+2,Social Realism,Sir Hubert von Herkomer,1849,1914,German/British,Painter
+3,Social Realism,Eugene Higgins,1874,1958,American,Painter/Printmaker
+0,The Canadian Group Of Seven,J.E.H. MacDonald,1873,1932,English/Canadian,Painter
+1,The Canadian Group Of Seven,F.H. Varley,1881,1969,Canadian,Painter
+2,The Canadian Group Of Seven,A.Y. Jackson,1882,1974,Canadian,Painter
+3,The Canadian Group Of Seven,Lawren S. Harris,1885,1970,Canadian,Painter
+4,The Canadian Group Of Seven,Arthur Lismer,1885,1969,English/Canadian,Painter
+5,The Canadian Group Of Seven,Frank Johnston,1888,1949,Canadian,Painter
+6,The Canadian Group Of Seven,Franklin Carmichael,1890,1945,Canadian,Painter
+7,The Canadian Group Of Seven,Lionel Fitzgerald,1890,1956,Canadian,Painter
+8,The Canadian Group Of Seven,Edwin Holgate,1892,1977,Canadian,Painter
+9,The Canadian Group Of Seven,A.J. Casson,1898,1992,Canadian,Painter
+0,Magic Realism,Ivan Albright,1897,1983,American,Painter
+1,Magic Realism,Carel Willink,1900,1983,Dutch,Painter
+2,Magic Realism,Philip Evergood,1901,1973,American,Painter
+3,Magic Realism,Paul Cadmus,1904,1999,American,Painter
+4,Magic Realism,Jared French,1905,1988,American,Painter
+5,Magic Realism,Peter Blume,1906,1992,Russian/American,Painter
+6,Magic Realism,O. Louis Guglielmi,1906,1956,Egyptian/American,Painter
+7,Magic Realism,Charles Rain,1911,1985,American,Painter
+8,Magic Realism,Alex Colville,1920,2013,Canadian,Painter
+9,Magic Realism,George Tooker,1920,2011,American,Painter
+10,Magic Realism,Gregory Gillespie,1936,2000,American,Painter
+0,Contemporary Realism,Peter Hurd,1904,1984,American,Painter
+1,Contemporary Realism,Henriette Wyeth,1907,1997,American,Painter
+2,Contemporary Realism,John Koch,1909,1978,American,Painter
+3,Contemporary Realism,Sylvia Sleigh,1916,2010,British/American,Painter
+4,Contemporary Realism,Andrew Wyeth,1917,2009,American,Painter
+5,Contemporary Realism,Roger Medearis,1920,2001,American,Painter
+6,Contemporary Realism,Jane Freilicher,1924,2014,American,Painter
+0,Expressionism,James Ensor,1860,1949,Belgian,Painter
+1,Expressionism,Emile Antoine Bourdelle,1861,1929,French,Sculptor
+2,Expressionism,Edvard Munch,1863,1944,Norwegian,Painter
+3,Expressionism,Franz von Stuck,1863,1928,German,Painter/Sculptor
+4,Expressionism,Alexei Jawlensky,1864,1941,Russian/German,Painter
+5,Expressionism,Wassily Kandinsky,1866,1944,Russian/French,Painter
+6,Expressionism,Kathe Kollwitz,1867,1945,German,Printmaker/Sculptor
+7,Expressionism,Emil Nolde,1867,1956,German,Painter
+8,Expressionism,Ernst Barlach,1870,1938,German,Sculptor
+9,Expressionism,Emily Carr,1871,1945,Canadian,Painter
+10,Expressionism,Lyonel Feininger,1871,1956,American/German,Painter
+11,Expressionism,Georges Rouault,1871,1958,French,Painter
+12,Expressionism,Alfred Kubin,1877,1959,Czech,Illustrator
+13,Expressionism,Gabriele Munter,1877,1962,German,Painter
+14,Expressionism,Paul Klee,1879,1940,Swiss,Painter
+15,Expressionism,Jacob Epstein,1880,1959,American/British,Sculptor
+16,Expressionism,Ernst Ludwig Kirchner,1880,1938,German,Painter/Sculptor
+17,Expressionism,Franz Marc,1880,1916,German,Painter
+18,Expressionism,Max Pechstein,1881,1955,German,Painter
+19,Expressionism,Max Weber,1881,1961,German/American,Painter
+20,Expressionism,Richard Gerstl,1883,1908,Austrian,Painter
+21,Expressionism,Erich Heckel,1883,1970,German,Painter
+22,Expressionism,Ivan Mestrovic,1883,1962,Croatian/American,Sculptor
+23,Expressionism,Max Beckmann,1884,1950,German,Painter
+24,Expressionism,Ludwig Meidner,1884,1966,German,Painter
+25,Expressionism,Amedeo Modigliani,1884,1920,Italian,Painter/Sculptor
+26,Expressionism,Karl Schmidt-Rottluff,1884,1976,German,Painter
+27,Expressionism,Jules Pascin,1885,1930,Bulgarian/French,Painter
+28,Expressionism,Oskar Kokoschka,1886,1980,Austrian,Painter
+29,Expressionism,Jose Gutierrez Solana,1886,1945,Spanish,Painter
+30,Expressionism,August Macke,1887,1914,German,Painter
+31,Expressionism,Heinrich Campendonk,1889,1957,German,Painter
+32,Expressionism,Georg Schrimpf,1889,1938,German,Painter
+33,Expressionism,Egon Schiele,1890,1918,Austrian,Painter
+34,Expressionism,Otto Dix,1891,1969,German,Painter
+35,Expressionism,George Grosz,1893,1959,German,Painter
+36,Expressionism,Chaim Soutine,1893,1943,Lithuanian/French,Painter
+37,Expressionism,Gert Wollheim,1894,1974,German/American,Painter
+0,Cubism,Lyonel Feininger,1871,1956,American/German,Painter
+1,Cubism,Jacques Villon,1875,1963,French,Painter
+2,Cubism,Raymond Duchamp-Villon,1876,1918,French,Sculptor
+3,Cubism,Kasimir Malevich,1878,1935,Ukrainian,Painter
+4,Cubism,Maria Blanchard,1881,1932,Spanish,Painter
+5,Cubism,Patrick Henry Bruce,1881,1936,American,Painter
+6,Cubism,Albert Gleizes,1881,1953,French,Painter
+7,Cubism,Natalia Goncharova,1881,1962,Russian,Painter
+8,Cubism,Fernand Leger,1881,1955,French,Painter
+9,Cubism,Mikhail Larionov,1881,1964,Russian,Painter
+10,Cubism,Henri Le Fauconnier,1881,1946,French,Painter
+11,Cubism,Pablo Picasso,1881,1973,Spanish,Painter/Sculptor
+12,Cubism,Georges Braque,1882,1963,French,Painter
+13,Cubism,Louis Marcoussis,1883,1941,Polish/French,Painter
+14,Cubism,Jean Metzinger,1883,1956,French,Painter
+15,Cubism,Gino Severini,1883,1966,Italian,Painter
+16,Cubism,Robert Delaunay,1885,1941,French,Painter
+17,Cubism,Roger de la Fresnaye,1885,1925,French,Painter
+18,Cubism,Henri Laurens,1885,1954,French,Sculptor
+19,Cubism,Andre Lhote,1885,1962,French,Painter/Sculptor
+20,Cubism,Alexander Archipenko,1887,1964,Ukrainian,Sculptor
+21,Cubism,Juan Gris,1887,1927,Spanish,Painter/Sculptor
+22,Cubism,Henri Gaudier-Brzeska,1891,1915,French,Sculptor
+23,Cubism,Jacques Lipchitz,1891,1973,Lithuanian/French,Sculptor
+0,Dada,Francis Picabia,1879,1953,French,Painter
+1,Dada,Jean Arp,1886,1966,German/French,Painter/Sculptor
+0,Neo-Plasticism,Piet Mondrian,1872,1944,Dutch,Painter
+1,Neo-Plasticism,Theo van Doesburg,1883,1931,Dutch,Painter
+2,Neo-Plasticism,Vilmos Huszar,1884,1960,Hungarian/Dutch,Painter
+3,Neo-Plasticism,Jean Gorin,1899,1981,French,Painter/Sculptor
+4,Neo-Plasticism,Charmion von Wiegand,1900,1983,American,Painter
+5,Neo-Plasticism,Ilya Bolotowsky,1907,1981,Russian/American,Painter
+0,Surrealism,Francis Picabia,1879,1953,French,Painter
+1,Surrealism,Jean Arp,1886,1966,German/French,Painter/Sculptor
+2,Surrealism,Marcel Duchamp,1887,1968,French/American,Conceptual Artist
+3,Surrealism,Giorgio de Chirico,1888,1978,Greek/Italian,Painter/Sculptor
+4,Surrealism,Paul Nash,1889,1946,English,Painter
+5,Surrealism,Man Ray,1890,1976,American,Photographer/Painter
+6,Surrealism,Max Ernst,1891,1976,German/French,Painter
+7,Surrealism,Alberto Savinio,1891,1952,Greek/Italian,Painter
+8,Surrealism,Joan Miro,1893,1983,Spanish,Painter/Sculptor
+9,Surrealism,Claude Cahun,1894,1954,French,Photographer
+10,Surrealism,Andre Breton,1896,1966,French,Writer/Artist
+11,Surrealism,Andre Masson,1896,1987,French,Painter
+12,Surrealism,Paul Delvaux,1897,1994,Belgian,Painter
+13,Surrealism,Rene Magritte,1898,1967,Belgian,Painter
+14,Surrealism,Kay Sage,1898,1963,American,Painter
+15,Surrealism,Pavel Tchelitchew,1898,1957,Russian,Painter
+16,Surrealism,Eileen Agar,1899,1991,British,Painter
+17,Surrealism,Yves Tanguy,1900,1955,French/American,Painter
+18,Surrealism,Alberto Giacometti,1901,1966,Swiss,Painter/Sculptor
+19,Surrealism,Stanley William Hayter,1901,1988,British,Painter
+0,Precisionism,Charles Demuth,1883,1935,American,Painter
+1,Precisionism,Charles Sheeler,1883,1965,American,Painter/Photographer
+2,Precisionism,Preston Dickinson,1891,1930,American,Painter
+3,Precisionism,Elsie Driggs,1898,1992,American,Painter
+4,Precisionism,Francis Criss,1901,1973,British/American,Painter
+5,Precisionism,Ralston Crawford,1906,1978,Canadian/American,Painter
+6,Precisionism,Edmund Lewandowski,1914,1998,American,Painter
+0,The Harlem Renaissance,Meta Warrick Fuller,1877,1968,African-American,Sculptor
+1,The Harlem Renaissance,James Van Der Zee,1886,1983,African-American,Photographer
+2,The Harlem Renaissance,Sargent Claude Johnson,1887,1967,African-American,Sculptor
+3,The Harlem Renaissance,Palmer Hayden,1890,1973,African-American,Painter
+4,The Harlem Renaissance,Archibald Motley,1891,1981,African-American,Painter
+5,The Harlem Renaissance,Augusta Savage,1892,1962,African-American,Sculptor
+6,The Harlem Renaissance,Dox Thrash,1893,1965,African-American,Printmaker
+7,The Harlem Renaissance,Aaron Douglas,1899,1979,African-American,Painter
+8,The Harlem Renaissance,Richmond Barthe,1901,1989,African-American,Sculptor
+9,The Harlem Renaissance,William H. Johnson,1901,1970,African-American,Painter
+10,The Harlem Renaissance,Lois Mailou Jones,1905,1998,African-American,Painter
+11,The Harlem Renaissance,Charles Alston,1907,1977,African-American,Painter/Sculptor
+12,The Harlem Renaissance,Allan Rohan Crite,1910,2007,African-American,Painter
+13,The Harlem Renaissance,Romare Bearden,1911,1988,African-American,Painter
+14,The Harlem Renaissance,Jacob Lawrence,1917,2000,African-American,Painter
+0,Abstract Expressionism,Hans Hofmann,1880,1966,German/American,Painter
+1,Abstract Expressionism,Mark Tobey,1890,1976,American,Painter
+2,Abstract Expressionism,Alma Thomas,1891,1978,African-American,Painter
+3,Abstract Expressionism,Louise Nevelson,1899,1988,Russian/American,Sculptor
+4,Abstract Expressionism,Jack Tworkov,1900,1982,Polish/American,Painter
+5,Abstract Expressionism,Adja Yunkers,1900,1983,Latvian/American,Painter
+6,Abstract Expressionism,Mary Callery,1903,1977,American,Sculptor
+7,Abstract Expressionism,Adolph Gottlieb,1903,1974,American,Painter
+8,Abstract Expressionism,Alfred Jensen,1903,1981,Guatemalan/American,Painter
+9,Abstract Expressionism,Seymour Lipton,1903,1986,American,Sculptor
+10,Abstract Expressionism,Mark Rothko,1903,1970,Latvian/American,Painter
+11,Abstract Expressionism,Aaron Siskind,1903,1991,American,Photographer
+12,Abstract Expressionism,Esteban Vicente,1903,2001,Spanish/American,Painter
+13,Abstract Expressionism,Willem de Kooning,1904,1997,Dutch/American,Painter
+14,Abstract Expressionism,Jose de Rivera,1904,1985,American,Sculptor
+15,Abstract Expressionism,Arshile Gorky,1904,1948,Armenian/American,Painter
+16,Abstract Expressionism,Balcomb Greene,1904,1990,American,Painter
+17,Abstract Expressionism,Gertrude Greene,1904,1956,American,Painter
+18,Abstract Expressionism,Isamu Noguchi,1904,1988,Japanese/American,Sculptor
+19,Abstract Expressionism,Clyfford Still,1904,1980,American,Painter
+20,Abstract Expressionism,John Ferren,1905,1970,American,Painter
+21,Abstract Expressionism,Barnett Newman,1905,1970,American,Painter
+22,Abstract Expressionism,James Brooks,1906,1992,American,Painter
+23,Abstract Expressionism,Herbert Ferber,1906,1991,American,Sculptor
+24,Abstract Expressionism,David Smith,1906,1965,American,Sculptor
+25,Abstract Expressionism,Albert Kotin,1907,1980,Russian/American,Painter
+26,Abstract Expressionism,Perle Fine,1908,1988,American,Painter
+27,Abstract Expressionism,Lee Krasner,1908,1984,American,Painter
+28,Abstract Expressionism,George McNeil,1908,1995,American,Painter
+29,Abstract Expressionism,Jack Bush,1909,1977,Canadian,Painter
+30,Abstract Expressionism,Enrico Donati,1909,2008,American,Painter
+31,Abstract Expressionism,Norman Lewis,1909,1979,African-American,Painter
+32,Abstract Expressionism,Morris Graves,1910,2001,American,Painter/Sculptor
+33,Abstract Expressionism,Franz Kline,1910,1962,American,Painter
+34,Abstract Expressionism,Louise Bourgeois,1911,2010,French/American,Sculptor
+35,Abstract Expressionism,William Baziotes,1912,1963,American,Painter
+36,Abstract Expressionism,Morris Louis,1912,1962,American,Painter
+37,Abstract Expressionism,Roberto Matta,1912,2002,Chilean/French,Painter
+38,Abstract Expressionism,Jackson Pollock,1912,1956,American,Painter
+39,Abstract Expressionism,Lawrence Calcagno,1913,1993,American,Painter
+40,Abstract Expressionism,Philip Guston,1913,1980,Canadian/American,Painter
+41,Abstract Expressionism,Ibram Lassaw,1913,2003,American,Sculptor
+42,Abstract Expressionism,Conrad Marca-Relli,1913,2000,American,Painter
+43,Abstract Expressionism,Ad Reinhardt,1913,1967,American,Painter
+44,Abstract Expressionism,William Scott,1913,1989,British,Painter
+45,Abstract Expressionism,Alberto Burri,1915,1995,Italian,Painter
+46,Abstract Expressionism,Edward Dugmore,1915,1996,American,Painter
+47,Abstract Expressionism,Robert Motherwell,1915,1991,American,Painter
+48,Abstract Expressionism,Elmer Bischoff,1916,1991,American,Painter
+49,Abstract Expressionism,Alfonso Ossorio,1916,1990,Filipino/American,Painter
+50,Abstract Expressionism,Richard Pousette-Dart,1916,1992,American,Painter
+51,Abstract Expressionism,Nicolas Carone,1917,2010,American,Painter/Sculptor
+52,Abstract Expressionism,Stephen Greene,1917,1999,American,Painter
+53,Abstract Expressionism,David Hare,1917,1992,American,Sculptor
+54,Abstract Expressionism,Milton Resnick,1917,2004,Russian/American,Painter
+55,Abstract Expressionism,Elaine Fried de Kooning,1918,1989,American,Painter
+56,Abstract Expressionism,Cleve Gray,1918,2004,American,Painter
+57,Abstract Expressionism,Edward Corbett,1919,1971,American,Painter
+58,Abstract Expressionism,Lester Johnson,1919,2010,American,Painter
+59,Abstract Expressionism,George Morrison,1919,2000,Native,American Painter/Sculptor
+60,Abstract Expressionism,Gene Davis,1920,1985,American,Painter
+61,Abstract Expressionism,Karel Appel,1921,2006,Dutch,Painter
+62,Abstract Expressionism,Norman Bluhm,1921,1999,American,Painter
+63,Abstract Expressionism,Nell Blaine,1922,1996,American,Painter
+64,Abstract Expressionism,Robert de Niro Sr.,1922,1993,American,Painter
+65,Abstract Expressionism,Grace Hartigan,1922,2008,American,Painter
+66,Abstract Expressionism,Jules Olitski,1922,2007,Ukrainian/American,Painter
+67,Abstract Expressionism,Theodoros Stamos,1922,1997,American,Painter
+68,Abstract Expressionism,Sam Francis,1923,1994,American,Painter
+69,Abstract Expressionism,Paul Jenkins,1923,2012,American,Painter
+70,Abstract Expressionism,Jean Paul Riopelle,1923,2002,Canadian,Painter
+71,Abstract Expressionism,Richard Stankiewicz,1923,1983,American,Assemblage Artist
+72,Abstract Expressionism,Antoni Tapies,1923,2012,Spanish,Painter
+73,Abstract Expressionism,Kenneth Noland,1924,2010,American,Painter
+74,Abstract Expressionism,Joan Mitchell,1926,1992,American,Painter
+75,Abstract Expressionism,Helen Frankenthaler,1928,2011,American,Painter
+76,Abstract Expressionism,Al Held,1928,2005,American,Painter
+0,Op Art,M.C. Escher,1898,1972,Dutch,Illustrator
+1,Op Art,Victor Vasarely,1908,1997,Hungarian/French,Painter
+2,Op Art,Jesus-Rafael Soto,1923,2005,Venezuelan,Painter/Installation Artist
+3,Op Art,Kenneth Noland,1924,2010,American,Painter
+0,Arte Povera,Lucio Fontana,1899,1968,Argentine/Italian,Sculptor/Painter
+0,Photorealism,John Kacere,1920,1999,American,Painter
+1,Photorealism,Duane Hanson,1925,1996,American,Sculptor
+0,Minimalism,John Graham,1886,1961,Ukrainian/American,Painter
+1,Minimalism,Barnett Newman,1905,1970,American,Painter
+2,Minimalism,Agnes Martin,1912,2004,Canadian/American,Painter
+3,Minimalism,Tony Smith,1912,1980,American,Sculptor
+4,Minimalism,Ad Reinhardt,1913,1967,American,Painter
+5,Minimalism,Anne Truitt,1921,2004,American,Sculptor
