@@ -1,1 +1,1 @@
-![logo](https://raw.githubusercontent.com/Simao-Lopes/lab-art.i/master/Images/Banner.PNG)
+![logo](https://raw.githubusercontent.com/Simao-Lopes/art.i/main/Images/Banner.png)
