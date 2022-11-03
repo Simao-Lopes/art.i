@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Simao-Lopes/art.i/main/Images/New banner.png)
+![logo](https://raw.githubusercontent.com/Simao-Lopes/art.i/main/Images/New%20banner.png)
 
 # Your ai art buddy
 
